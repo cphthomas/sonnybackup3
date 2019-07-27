@@ -1,0 +1,1115 @@
+# Hvidvask 3 {-}
+
+## Finanstilsynets praksis vedrørende hvidvasklovens regler om kundekendskabsprocedurer
+
+### Indledning
+
+Finanstilsynets praksis vedrørende reglerne om kundekendskabsprocedurer på hvidvaskområdet henvender sig til virksomheder og personer, der er omfattet af hvidvaskloven.  
+
+Den handler om, hvordan disse virksomheder og personer kan opfylde kravene til kundekendskabsprocedurer i hvidvaskloven. 
+
+Den omfatter reglerne på hvidvaskområdet, idet der dog nogle steder er nævnt, hvordan der kan være sammenhæng til andre regelområder. 
+
+Virksomheder og personer omfattet af hvidvaskloven (i det følgende virksomheder) skal imidlertid være opmærksom på, at der kan være krav i anden lovgivning, som de samtidig skal være opmærksomme på at overholde. 
+
+Det er et grundlæggende princip i hvidvasklovgivningen, at virksomheden skal kende sine kunder. Reglerne om kundekendskabsprocedurer findes i hvidvasklovens kapitel 3, §§ 10-21. 
+
+Formålet med kundekendskabsproceduren er, at virksomheder ved, hvem deres kunder er, og hvad der er kundens formål med forretningsforbindelsen eller den enkeltstående transaktion. 
+
+Kundekendeskabsprocedurer er en forpligtigelse, der gælder kontinuerligt i hele kundeforholdet. 
+
+Det betyder, at oplysninger om kunden skal opdateres med passende intervaller ud fra en risikovurdering, som tidligere nævnt om kundekendskabsprocedurer ved passende intervaller. 
+
+Virksomheden skal som tidligere nævnt kunne dokumentere de oplysninger, som virksomheden indhenter i henhold til hvidvasklovens kapitel 3. 
+
+**Hvad er en kunde?** 
+
+*Begrebet kunde* dækker over både fysiske personer og juridiske personer (f.eks. selskaber, foreninger og offentlige myndigheder). 
+
+Et kundeforhold opstår, når virksomheden enten etablerer en forretningsforbindelse med en kunde eller foretager en enkeltstående transaktion for en kunde, se nedenfor. 
+
+Dette kan f.eks. omfatte, at virksomheden indgår aftale med en fysisk eller juridisk person om, f.eks. åbning af en konto (udlån, indlån, leasing mv.), et depot, en pengeoverførsel, valutaveksling, køb eller salg af værdipapirer, en rådgivningsopgave, en formidlingsopgave, f.eks. salg af fast ejendom m.v. eller en aftale om at udarbejde et regnskab eller udføre revision m.v. 
+
+Kunden er den fysiske eller juridiske person, som virksomheden indgår et aftaleforhold med eller på hvis vegne virksomheden gennemfører en transaktion eller aktivitet for. 
+
+**Eksempler på kundeforhold:** 
+
+• Ved *værgemål og samværgemå*l betragtes værgen som en person, der handler på vegne af kunden. Det er den *umyndige*, den umyndiggjorte eller personen under samværgemål, som er kunden. 
+
+• Ved en *børneopsparing* er det barnet, der er kunden. Opretteren af børneopsparingen handler derfor på vegne af kunden. 
+
+• En *leasingtager er leasingselskabets kunde*. Den forhandler, som leasingselskabet køber udstyret af og/eller sælger udstyret til ved leasingaftalens udløb, er ikke omfattet af kundebegrebet i hvidvaskloven.
+
+• En *kautionist* for en fordring, f.eks. et lån i et pengeinstitut eller realkreditinstitut, skal betragtes som en kunde ved indgåelse af lånet, da kautionisten har indgået en aftale med pengeinstituttet/realkreditinstituttet, og der er dermed etableret en forretningsforbindelse. 
+
+Det betyder, at i sådan en situation er det både låntager og kautionist, der skal betragtes som kunde. 
+
+• Ved *tredjemandspant* er det en konkret vurdering af det enkelte forhold, om der bliver etableret en forretningsforbindelse. 
+
+Hvis der i forbindelse med tredjemandspant bliver oprettet en konto, vil der altid være tale om etablering af en forretningsforbindelse. 
+
+• Ved *livsforsikringer og pensioner* er kunden den fysiske eller juridiske person, som selskabet indgår aftale med (forsikringstager) og som er indehaver af forsikringspolicen. 
+
+Ved *arbejdsmarkedspensioner og firmaordninger*, hvor der udstedes selvstændige policer, er det således lønmodtageren, der skal identificeres og kontrolleres som kunde. 
+
+Ved *gruppeforsikringsordninger*, hvor der ikke udstedes selvstændige policer, er det arbejdsgiveren/foreningen, der skal identificeres og kontrolleres som kunde. 
+
+• En *revisor* kan indhente hjælp hos tredjemand (f.eks. en anden revisor eller en skatterådgiver mv.) til udførelsen af opgaver for en kunde. 
+
+Tredjemand vil her som udgangspunkt skulle anses som underleverandør til revisor. 
+
+De konkrete omstændigheder kan dog medføre, at tredjemand er indgået i et kundeforhold med revisors kunde. 
+
+Dette vil f.eks. være tilfældet ved *revisors afgivelse af erklæringer*. 
+
+Hvem der er tredjemands kunde beror derfor på en konkret vurdering af bl.a., hvem kundeforholdet her er indgået med, opgavens omfang og varighed, med hvem kontakten sker, samt til hvem ydelsen faktureres. 
+
+• En *ejendomsmægler (sælgermægler)* som bistår ved salg af en fast ejendom skal anse både sælger og køber som kunder. 
+
+Såfremt køber er repræsenteret af en anden ejendomsmægler, advokat eller andre som er omfattet af hvidvaskloven, skal køber ikke anses som kunde for sælgermægler. 
+
+• En *købermægler*, uanset om denne er registret som ejendomsmægler, som bistår ved et køb af en fast ejendom skal anse både sælger og køber som kunder. 
+
+Såfremt sælger er repræsenteret af en ejendomsmægler eller advokat, anses sælger alene for at have indgået en forretningsforbindelse med denne. 
+
+• Ved værdipapirhandel er kunden den fysiske eller juridiske person, som virksomheden indgår den juridisk bindende aftale med. 
+
+• Særligt om *værdipapirhandel* kan følgende eksempler på afgrænsning af kundebegrebet anføres: 
+
+1. En modpart, som en værdipapirhandler henvender sig til med henblik på at udføre en kundes ordre er ikke kunde hos værdipapirhandleren.
+
+2. En værdipapirhandler, der henvender sig til en virksomhed, er kunde hos virksomheden. Værdipapirhandlerens kunder er ikke kunder hos virksomheden.
+
+3. Hvis en kunde har depot og/eller kontor hos en virksomhed, er kunden dog stadig kunde hos virksomheden, selvom kunden henvender sig gennem en *værdipapirhandler*, f.eks. gennem en *porteføljeplejeaftale* hos værdipapirhandleren. Tilsvarende gælder, hvis værdipapirhandleres kundes ordre efterfølgende gennemføres direkte mellem kunden og virksomheden. 
+
+4. Modparter, som en virksomhed indgår handler med via medlemsskab af et reguleret marked, og hvor der gælder *delivery versus payment*, er ikke kunder.
+
+5. En person, der ejer værdipapirer udstedt af en virksomhed, er ikke kunde hos virksomheden af den grund. 
+
+• *Advokaters kunder/forretningsforbindelser er deres klienter*, og et klientforhold skal betragtes som etableret ved advokatens accept af at ville repræsentere klienten. 
+
+I mange tilfælde etableres et klientforhold i løbet af det første møde med klienten. 
+
+I tilfælde hvor der fremsendes materiale til advokaten vil advokaten typisk skriftligt besvare henvendelsen og oplyse, at han vil repræsentere klienten.
+
+
+### Hvornår skal virksomhden gennemføre kundekendskabsprocedurer
+
+**Hvornår skal en virksomhed gennemføre kundekendskabsprocedurer?**
+
+Hvidvasklovens § 10 beskriver, hvornår en virksomhed skal gennemføre kundekendskabsprocedurer:
+
+- Ved etablering af en forretningsforbindelse 
+- Når en kundes relevante omstændigheder ændrer sig 
+- Ved passende tidspunkter 
+- Ved enkeltstående transaktioner over et vist beløb 
+- Ved udbud af spil, hvor indsatsen eller udbetalingen er over et vist beløb - Ved mistanke om hvidvask eller finansiering af terrorisme 
+- Ved tvivl om tidligere indhentede oplysninger om kunden 
+
+I de følgende afsnit vil de forskellige oplistede situationer blive nærmere beskrevet.  
+
+#### Etablering af en forretningsforbindelse 
+
+Det er udgangspunktet, at en virksomhed etablerer en forretningsforbindelse, når virksomheden udfører en ydelse eller sælger et produkt til en kunde. 
+
+For kundeforhold hvor der ikke bliver etableret en forretningsforbindelse, se afsnittet om enkeltstående transaktioner. 
+
+Når virksomheden etablerer et kundeforhold, hvor det på tidspunktet for etableringen forventes, at kundeforholdet bliver af en vis varighed, etableres der en forretningsforbindelse. 
+
+Der vil derfor være tale om etablering af en forretningsforbindelse, hvis virksomheden vurderer, at kunden vil benytte sig af virksomhedens ydelser gentagne gange og dermed vil være en jævnlig tilbagevendende kunde. 
+
+Der er altid tale om etablering af en forretningsforbindelse, hvis en kunde får oprettet en konto eller lignende hos virksomheden f.eks. i forhold til indlån, udlån, leasing, aftale om ejendomssalg mv. 
+
+Der må ikke oprettes anonyme konti eller konti under falske navne, og derfor er det et krav, at der altid gennemføres kundekendskabsprocedurer ved etablering af en forretningsforbindelse.
+
+#### En kundes relevante omstændigheder ændrer sig 
+
+Hvis der er tale om en etableret forretningsforbindelse, og kundens relevante omstændigheder ændrer sig, skal kundeskabsprocedurerne gennemføres igen. 
+
+Virksomheden skal reagere, hvis den bliver opmærksom på ændringer i kundeforholdet f.eks. en større udvidelse af kundeengagementet og/eller til ændringer i kundens virksomhed. 
+
+Virksomheden skal i disse situationer ud fra en risikovurdering tage stilling til, om der skal indhentes nye oplysninger om kunden, herunder eksempelvis indhentelse af identitetsoplysninger på ny og kontrol af disse. 
+
+#### Kundekendskabsprocedurer ved passende tidspunkter 
+
+Når der er tale om en etableret forretningsforbindelse, skal virksomheden gennemføre kundekendskabsprocedurerne med passende intervaller i kundeforholdet. 
+
+Formålet med dette er at sikre, at de oplysninger, virksomheden har om en eksisterende kunde, er korrekte og tilstrækkelige. 
+
+Virksomheden skal derfor, ud over gennemførelse af kundekendskabsprocedurer, hvis kundens relevante omstændigheder ændres, også sikre, at de gennemføres ved faste intervaller. 
+
+Kravet om gennemførelse af kundekendskabsprocedurer ved passende intervaller skal foretages på et risikobaseret grundlag. 
+
+Det vil sige, at virksomheden skal fastsætte intervallet ud fra en risikovurdering af kundeforholdet. 
+
+Virksomheden kan samle kunderne i forskellige kundekategorier, f.eks. kunder med begrænset risiko og kunder med øget risiko, og kan eksempelvis fastsatte et interval for kunder med begrænset risiko og et andet interval for kunder med øget risiko. 
+
+Virksomheden kan dog ikke beslutte, at kundekendskabsprocedurerne ikke gennemføres. 
+
+Det er således hensigten, at virksomheden fokuserer på kundeforhold med øget risici, mens der ved kundeforhold med begrænset risici ikke er behov for samme omfattende og hyppige procedurer. 
+
+Der er ikke fastsat en lovbestemt metode til, hvordan virksomheden gennemfører kundekendskabsprocedurer ved passende intervaller. 
+
+Kundekendskabsprocedurerne kan derfor gennemføres ved f.eks. en automatiseret og/eller en manuel proces. Dette skal dog ske ud fra en risikobaseret tilgang. 
+
+Hvis der er tale om et kundeforhold med en juridisk person, kan det for eksempel være relevant i tilfælde med begrænset risici med passende tidspunkter at kontrollere, om kunden har fået nye reelle ejere.
+
+**Retsgrundlag**
+
+**Henvisning til hvidvaskloven: § 10, stk. 1, nr. 1.** 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 11, litra a.**
+
+
+#### Enkeltstående transaktioner 
+
+Udgangspunktet er, at en virksomhed etablerer en forretningsforbindelse, når den udfører transaktioner for en kunde, og der dermed skal gennemføres kundekendskabsprocedurer. 
+
+Virksomheden kan dog udføre enkeltstående transaktioner for kunder, der ikke med jævne mellemrum benytter sig af virksomheden. 
+
+Virksomheden skal i sine procedurer for kundekendskab sikre sig, at virksomheden er i stand til at afgrænse, hvornår en kunde går fra at være en kunde, som virksomheden gennemfører enkeltstående transaktioner for, til at være en forretningsforbindelse. 
+
+Virksomheden kan derfor fastlægge en række kriterier for at vurdere, om der er tale om en forretningsforbindelse eller ej. 
+
+Eksempel på sådanne kriterier kan f.eks. være: 
+
+1. Antallet af gange kunden benytter sig af virksomheden 
+2. Tidsintervallet mellem to transaktioner 
+3. Antallet af transaktioner 
+
+Når der er tale om enkeltstående transaktioner, skal virksomheden gennemføre kundekendskabsprocedurer, når virksomheden udfører transaktioner for en kunde på mindst 15.000 euro. 
+
+For pengeoverførsel og valutaveksling gælder der andre grænser. 
+
+Der skal ved pengeoverførsel gennemføres kundekendskabsprocedurer, når virksomheden udfører en enkeltstående transaktion på mere end 1.000 euro og ved valutaveksling skal procedurerne gennemføres, når transaktionen er 500 euro eller derover. 
+
+Kendes transaktionens størrelse ikke på forhånd, skal der gennemføres kundekendskabsprocedurer, så snart der er en formodning om, at transaktionen eller transaktionerne samlet modsvarer et beløb på henholdsvis de 15.000 euro, 1.000 euro eller 500 euro. 
+
+De ovennævnte grænser gælder, uanset om transaktionen sker på én gang eller som flere transaktioner, der er eller ser ud til at være indbyrdes forbundet. 
+
+Eksempler på indbyrdes forbundne transaktioner:
+
+- En kunde beder om at få overført henholdsvis 800 euro og 900 euro og overstiger dermed grænsen på 1.000 euro 
+- En kunde kommer igen flere gange samme dag eller dagen efter og foretager samme type transaktion igen 
+- En kunde kommer flere dage i træk og får vekslet beløb, der tilsammen modsvarer et beløb på 500 euro eller mere. 
+
+Der er tale om en enkeltstående transaktion, når der ikke bliver etableret en forretningsforbindelse. 
+
+Det vil sige, at der ikke er tale om en enkeltstående transaktion, hvis der er etableret eller bliver etableret en forretningsforbindelse på grund af andre ydelser, f.eks. kontooprettelse, rådgivning eller lignende. 
+
+Jævnligt tilbagevendende kunder hos f.eks. valutavekselvirksomheder og pengeoverførselsvirksomheder vil skulle betragtes som forretningsforbindelser. 
+
+Det er en konkret vurdering, hvornår en kunde, der foretager gentagne enkeltstående transaktioner skal betragtes som en etableret forretningsforbindelse, og der dermed skal gennemføres kundekendskabsprocedurer. 
+
+Det afhænger blandt andet af, hvor ofte kunden foretager en transaktion samt hvor lang en tidsperiode, der er imellem de enkelte transaktioner. 
+
+Se afsnittet om etablering af en forretningsforbindelse. 
+
+Hvis der er mistanke om hvidvask eller finansiering af terrorisme, skal der altid gennemføres kundekendskabsprocedurer, se afsnittet "om mistanke om hvidvask og finansiering af terrorisme". 
+
+Virksomheden skal være opmærksom på, at virksomheden ved pengeoverførsler skal overholde kravene i pengeoverførselsforordningen om oplysninger om betaler og betalingsmodtager. 
+
+Dette krav gælder, selvom virksomheden ikke er forpligtet til at gennemføre kundekendskabsprocedurer efter kravene i hvidvaskloven.
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 10, stk. 1, nr. 2. 4. hvidvaskdirektiv: Artikel 11, stk. 1, litra b.** 
+
+**Anden lovgivning: Europa-Parlamentets og Rådets forordning (EU) 2015/847 af 20. maj 2015 om oplysninger, der skal medsendes ved pengeoverførsler, og om ophævelse af forordning (EF) nr. 1781/2006.**
+
+---
+
+**Video:Robotter som overvåger og misbruger betalingskort, sporeringer af penge og digital valuta mod hvidvask**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/7Td10SE8O_U" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+
+#### Enkeltstående aktiviteter, der ikke er transaktioner (rådgivningsopgaver)
+
+Hvis en virksomhed udfører en enkeltstående aktivitet, der ikke er en transaktion, kan kravene i hvidvasklovens § 11 om indhentning og kontrol af identitetsoplysninger på kunden undlades på baggrund af en risikovurdering. 
+
+Et eksempel på en enkeltstående aktivitet er f.eks. en rådgivningsopgave, hvor der ikke umiddelbart er udsigt til, at kunden vil henvende sig med nye opgaver, f.eks. en skatterådgivningsopgave af helt generel karakter eller en enkeltstående generel rådgivningsopgave på investeringsområdet, som ikke tager kundens konkrete indtjenings- og formueforhold i betragtning. 
+
+I sådanne tilfælde vil der ikke være etableret en forretningsforbindelse. 
+
+Vurderingen kan derfor foretages på baggrund af, om aktivteten er af generel karakter, eller om virksomheden for at udføre aktiviteten skal forholde sig til kundens konkrete oplysninger, herunder kundens indtjenings- og formueforhold. 
+
+Det afgørende er, at der i den konkrete situation ikke er eller bliver indgået en forretningsforbindelse. 
+
+Virksomheden skal efterfølgende kunne godtgøre, at der i det konkrete tilfælde har været tale om en enkeltstående aktivitet, og at risikovurderingen af den konkrete kunde har ført til, at kundekendskabsprocedurer kunne undlades. 
+
+Oprettelse af et selskab for en kunde eller salg af et tomt selskab kan ikke betragtes som en enkeltstående aktivitet, selvom kundeforholdet må forventes at blive kortvarigt. 
+
+Udførelse af sådanne aktiviteter for en kunde vil derfor være etablering af en forretningsforbindelse. 
+
+Hvis der er mistanke om hvidvask eller finansiering af terrorisme, skal der altid gennemføres kundekendskabsprocedurer, se afsnittet "om mistanke om hvidvask og finansiering af terrorisme".
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 13**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 2, stk. 3.**
+
+
+####Udbud af spil, hvor indsatsen eller udbetalingen er over et vist beløb 
+
+Virksomheder, som udbyder spil, enten selv eller igennem en forhandler, skal gennemføre kundekendskabsprocedurer, når der gøres en indsats, udbetales en gevinst eller begge dele på mindst 2.000 euro. 
+
+Hvilken del af processen, som udløser udførslen af kundekendskabsproceduren, er valgfri for virksomheden. 
+
+Vurderingen af, om flere transaktioner er sammenhængende, kan vurderes ud fra den enkelte forhandler og inden for en periode på 24 timer.
+
+Virksomheden skal uanset være opmærksom på, om der etableres en fast forretningsforbindelse, f.eks. ved oprettelse af loyalitetskort eller ordninger, hvorved en gevinst overføres til en bankkonti. Se afsnittet "om faste forretningsforbindelser".
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 10, stk. 1, nr. 3.** 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 11, litra d"***. 
+
+
+#### Mistanke om hvidvask eller finansiering af terrorisme 
+
+Virksomheden skal altid gennemføre kundekendskabsprocedurer, når virksomheden har viden eller mistanke om hvidvask eller finansiering af terrorisme. 
+
+Kravet gælder selvom, der kun er tale om en enkeltstående transaktion under et vist beløb, se afsnittet "om enkeltstående transaktioner", eller udbud af spil, hvor indsatsen eller udbetalingen er under 2.000 euro, se afsnittet "om udbud af spil", hvor indsatsen eller udbetaling er over et vist beløb. 
+
+Der kan være situationer med mistanke, hvor det ikke er muligt at gennemføre kundekendskabsprocedurer, f.eks. hvis kunden nægter at give disse oplysninger eller kunden forlader virksomheden, når disse bliver efterspurgt. 
+
+Virksomheden skal i disse tilfælde foretage en underretning med de oplysninger, som virksomheden er i besiddelse af. 
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 10, stk. 1, nr. 4. 4**. 
+**hvidvaskdirektiv: Artikel 11, stk. 1, litra e.**
+
+#### Tidligere indhentede oplysninger om kunden 
+
+Virksomheden skal gennemføre kundekendskabsprocedurer, hvis der er tvivl om, hvorvidt de indhentede oplysninger om kundens identitet mv. er korrekte og/eller tilstrækkelige. 
+
+Det betyder, at hvis virksomheden får grund til at tro, at de indhentede oplysninger ikke er tilstrækkelige og/eller korrekte, skal der gennemføres kundekendskabsprocedurer på ny. 
+
+Der ligger i kravet, at der skal ske gennemførelse af hele kundekendskabsproceduren eller ud fra en risikobetragtning dele af kundekendskabsproceduren. 
+
+Det er derfor ikke nødvendigvis kun en opdatering af kundens identitetsoplysninger. 
+
+Virksomheden skal foretage en konkret vurdering af, hvilke oplysninger, der skal indhentes. 
+
+Virksomheden bør sondre mellem hvorvidt oplysninger ikke er tilstrækkelige eller ikke er korrekte. 
+
+Behovet og omfanget af de yderligere kundekendskabsprocedurer, der gennemføres i sådanne tilfælde, kan tilrettelægges ud fra det konkrete forhold, eksempelvis: 
+
+- er virksomheden i tvivl om hvorvidt nogle konkrete oplysninger er tilstrækkelige, kan virksomheden vurdere, at det kun er dele af kundekendskabsproceduren, der er nødvendig at gennemføre igen 
+- er virksomheden i tvivl om, hvorvidt de indhentede oplysninger er korrekte, kan virksomheden vurdere, at hele kundekendskabsproceduren skal gennemføres igen. 
+
+I tilfælde med utilstrækkelige oplysninger vil der ofte være tale om, at der mangler supplerende oplysninger om den pågældende kunde. 
+
+Et eksempel på, hvornår de indhentede oplysninger ikke er tilstrækkelige, kan være, hvis virksomheden får oplysninger om kunden, der medfører, at kundens risikoprofil forøges eller formål og tilsigtede beskaffenhed ændrer sig. 
+
+I tilfælde hvor det viser sig, at nogle af oplysningerne ikke er korrekte, kan det ofte være nødvendigt, at virksomheden kontrollerer alle oplysninger på ny, for at sikre sig, at alle oplysninger er korrekte. 
+
+Det beror dog på, hvilke type oplysninger, der ikke er korrekte. Har kunden f.eks. afgivet et forket husnummer ved en fejl, vil det ikke nødvendigvis give anledning til, at hele kundekendskabsproceduren skal gennemføres igen. 
+
+Er virksomheden f.eks. i tvivl om, hvorvidt de ukorrekte oplysninger er afgivet bevidst af kunden, skal kundekendskabsprocedurerne gennemføres igen på ny. 
+
+Se afsnittet "om risikovurdering - kundekendskabsprocedurer".
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 10, stk. 1, nr. 5. 4**. 
+**hvidvaskdirektiv: Artikel 11, stk. 1, litra f**.
+
+### Indholdet af kundekendskabsprocedurer 
+
+Hvidvasklovens § 11 fastsætter de almindelige krav til kundekendskabsprocedurer. 
+
+Kundekendskabsprocedurer er en forpligtelse gennem hele forløbet af forretningsforbindelsen med kunden og skal gennemføres på baggrund af en risikovurdering af kundeforholdet. 
+
+Virksomheden skal således afdække relevante risikofaktorer og ændringer heri i det enkelte kundeforhold for at vurdere omfanget af de kundekendskabsprocedurer, der skal gennemføres. 
+
+Der ligger i kravene i § 11, at virksomheden skal 
+
+1) Indhente identitetsoplysninger på kunden 
+2) Kontrollere de indhentede identitetsoplysninger ved en pålidelig og uafhængig kilde
+
+#### Indhentning af identitetsoplysninger
+
+Virksomheder skal altid indhente identitetsoplysninger om kunden. 
+
+Identitetsoplysningerne kan eksempelvis indhentes gennem almindelig kundekontakt, f.eks.:
+
+*ved kundens 
+*personlige fremmøde, 
+*ved skriftlig korrespondance mellem kunden og virksomheden, 
+*ved telefonsamtale eller via virksomhedens it-systemer, herunder f.eks. ved videokontakt via en tilstrækkelig sikker linje eller via f.eks. netbank. 
+
+**Fysiske personer**
+
+Hvis kunden er en fysisk person, skal der indhentes navn og cpr-nr. 
+
+Hvis den pågældende kunde ikke har et cpr-nr., skal der indhentes lignende identitetsoplysning, f.eks. for udlændinge et nationalt id-nummer. 
+
+Når kunden ikke har et cpr-nr. eller lignende, skal identitetsoplysninger omfatte kundens fødselsdato. 
+
+Udgangspunktet er, at det id-nummer, som virksomheden indhenter, skal være unikt og varigt. 
+
+Et eksempel på et varigt id-nummer er et dansk cpr-nr., hvor der som udgangspunkt er tale om et id-nummer, der kun i meget specifikke tilfælde kan ændres. 
+
+Der kan dog være tilfælde, hvor kunden ikke har et unikt og/eller varigt id-nummer. 
+
+I disse tilfælde skal virksomheden sikre sig, at det id-nummer, de indhenter, er kundens aktive id-nummer. 
+
+Dette kan f.eks. være relevant, hvor virksomheden bruger kundens pasnummer som det unikke id-nummer. I sådanne tilfælde, kan kun benyttes et pas, der ikke er udløbet på identifikationstidspunktet. 
+
+Fødselsdato kan anvendes i det sjældne tilfælde, hvor kunden ikke har et unikt id-nummer. 
+
+Det er som udgangspunkt kunden, der skal give identitetsoplysningerne. 
+
+Det er derfor som udgangspunkt ikke tilstrækkeligt, at kunden alene oplyser sit cpr-nr., hvorefter virksomheden selv indhenter kundens navn i CPR (Det Centrale Personregister). 
+
+I tilfælde med meget begrænset risiko kan det dog være tilstrækkeligt, hvis identitetsoplysninger om kunden indhentes fra kundens arbejdsgiver, f.eks. i tilfældet med arbejdsmarkedspensioner. 
+
+Virksomheden skal indhente kundens fulde navn for at sikre, at kontrollen af, at kunden er den, som kunden udgiver sig for at være, er effektiv. 
+
+Virksomheden kan dog i konkrete tilfælde anlægge en risikobetragtning i forhold til den procedure, virksomheden benytter ved indhentelse af identitetsoplysningerne fra kunden. 
+
+Udgangspunktet er, at det af kunden oplyste navn og cpr-nr. skal stemme overens med kontrolkilden. 
+
+Ved åbenlyse slåfejl kan virksomheden dog acceptere de indhentede oplysninger fra kunden. 
+
+Mangler dele af kundens fulde navn f.eks. en af kundens fornavne, skal virksomheden indhente identitetsoplysninger igen hos kunden. 
+
+I praksis vil det eksempelvis skulle ske, hvis virksomheden ikke møder kunden fysisk ved etableringen af forretningsforbindelsen, og kunden udfylder en formular med sine identitetsoplysninger, som derefter vil blive kontrolleret af virksomheden i CPR. 
+
+Har kunden f.eks. kun angivet to af sine fire navne, skal virksomheden indhente oplysninger om kundens fulde navn fra kunden. 
+
+Hvis virksomheden f.eks. indhenter identitetsoplysningerne via en formular og benytter sig af to kontrolkilder, som fremsendes af kunden samlet kan virksomheden vurdere, at kunden har fremsendt sit fulde navn ved de to kontrolkilder, og der er ikke tvivl om, at kunden er den, som kunden udgiver sig for at være. 
+
+Et eksempel på to kontrolkilder kan f.eks. være kopi af kørekort og pas. 
+
+Virksomheden skal, ved etableringen af en forretningsforbindelse til en kunde, registrere kundens fulde navn. 
+
+Virksomheden skal altid kunne godtgøre over for den tilsynsmyndigheden, der fører tilsyn med virksomhedens overholdelse af hvidvaskloven, at virksomheden har et tilstrækkeligt kendskab til kunden. 
+
+**Juridiske personer**
+
+Hvis kunden er en juridisk person, skal der indhentes navn og cvr-nr. Hvis den pågældende kunde ikke har et cvr-nr., skal der indhentes lignende identitetsoplysninger. 
+
+Ved udenlandske virksomheder kan anden form for identifikationsoplysning være et registreringsnummer, f.eks. TIN (Tax Identification Number), LEI (Legal Entity Identifier) eller et andet unikt registreringsnummer. 
+
+Hvis kunden ikke har et cvr-nr. eller lignende, er det et krav, at virksomheden som minimum har oplysninger om kundens juridiske status (virksomhedsform), f.eks. om der er tale om et selskab med begrænset ansvar, fonde, trust mv. 
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 11, stk. 1 og 4**. 
+**4. hvidvaskdirektiv: Artikel 13**. 
+
+#### Kontrol af identitetsoplysninger 
+
+De identitetsoplysninger, som virksomheden har indhentet på en kunde, skal kontrolleres ved dokumenter, data eller oplysninger, der er indhentet fra en pålidelig og uafhængig kilde. 
+
+Det betyder, at kontrol af kundens identitet skal ske gennem en anden kilde end kunden. 
+
+Den pålidelige kilde kan være en offentlig myndighed, men det kan også være en anden pålidelig ekstern kilde. 
+
+Det er samtidig vigtigt, at der er tale om en aktuel kilde. 
+
+Dette er særlig relevant i forhold til fysiske id-dokumenter, hvor virksomheden skal være opmærksom på, om dokumentet stadig er gyldigt. 
+
+Det er relevant at sikre, at dokumentet, der bruges til kontrol er gyldigt, da personens identitetsoplysninger kan have ændret sig, f.eks. oplysninger om nationalitet, ændring af unikt id-nummer mv. 
+
+Virksomheden skal ud fra en risikobetragtning vurdere, om identitetsoplysningerne bør ajourføres på et senere tidspunkt, herunder om identitetsbeviser skal indhentes igen, fordi tidligere identitetsbeviser er udløbet i mellemtiden. 
+
+Virksomheden skal indhente et nyt legitimationsdokument, hvis der er opstået tvivl om dokumentets ægthed. 
+
+Det er en konkret vurdering, hvor meget dokumentation, data eller oplysninger der skal være for, at der er tale om en tilstrækkelig kontrol af en kundes identitetsoplysninger. 
+
+Der må dog ikke være anledning til tvivl om, at kunden er den person, som kunden udgiver sig for at være. Virksomheden skal i den forbindelse risikovurdere sine kunder, og denne vurdering kan medføre, at der skal gennemføres skærpede kundekendskabsprocedurer. 
+
+Hvis virksomheden vurderer, at der er øget risiko ved forretningsforbindelsen, skal virksomheden foretage yderligere handlinger, uanset om kundens identitetsoplysninger er kontrolleret. 
+
+Virksomheden kan kræve yderligere dokumenter fra kunden, foretage opslag i eksterne kilder eller kræve, at første betaling sker fra en bankkonto i kundens navn m.v. 
+
+Virksomheden skal således vurdere, hvilke procedurer den vil benytte for at sikre, at der ikke er tvivl om, at kunden er den, som kunden udgiver sig for at være. Se afsnittet "om skærpede kundekendskabsprocedurer".
+
+#### Eksempler på kontrol ved en pålidelig og uafhængig kilde
+
+En kontrol ved en pålidelig og uafhængig kilde kan f.eks. være en søgning i et pålideligt og uafhængigt register eller database eller et dokument udstedt af en offentlig myndighed. 
+
+Udgangspunktet er, at virksomheden skal have forevist originale fysiske legitimationsdokumenter, når kunden er fysisk til stede. 
+
+Hvis kunden er fysisk til stede, bør kunden som udgangspunkt også være i stand til at fremvise legitimationsdokumenter og ikke kun en kopi af disse. 
+
+**Fysiske personer**
+
+For fysiske personer kan kontrollen f.eks. bestå af opslag i CPR (Det Centrale Personregister), oplysninger fra SKAT, offentligt udstedte legitimationsdokumenter, som f.eks. pas, kørekort, NemID, legitimationskort, sundhedskort, dåbs- eller navneattest. 
+
+Der er ikke krav om, at kunden fremviser billedlegitimation. 
+
+I de tilfælde, hvor kunden møder fysisk op hos virksomheden, vil kontrol i form af billedlegitimation, f.eks. pas eller kørekort, dog give virksomheden en øget sikkerhed for, at kunden er den person, som kunden udgiver sig for at være.
+
+
+
+<img src="img/Hvidvask 2.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+
+
+Det vil især være aktuelt i tilfælde, hvor der er tale om høj risiko. 
+
+**Juridiske personer**
+
+For juridiske personer kan kontrollen f.eks. bestå af et opslag i CVR (Det Centrale Virksomhedsregister), oplysninger fra SKAT, kopi af stiftelsesdokument og vedtægter. 
+
+Hvis kunden er etableret uden for Danmark, kan lignende oplysninger fra tilsvarende offentlige myndigheder eller registre benyttes til at kontrollere den juridiske persons identitetsoplysninger. 
+
+For juridiske personer uden et cvr-nr., f.eks. visse foreninger, kan kontrol ske ved indhentelse af kopi af foreningens stiftelsesdokument og vedtægter, hvis sådanne findes, samt oplysninger om de personer, der kan handle på vegne af foreningen. 
+
+Stiftelsesdokumentet kan f.eks. være kopi af referat fra den stiftende generalforsamling. Oplysninger om, hvem der kan handle på vegne af foreningen, vil typisk fremgå af vedtægterne, f.eks. formand og kasserer i forening og disses navne vil typisk fremgå af referat af foreningens sidste afholdte generalforsamling. 
+
+Der findes mange forskellige typer foreninger, herunder interesseforeninger og frivillige foreninger. 
+
+Disse foreninger dækker et bredt spektrum, også i forhold til risiko, og virksomheden bør derfor i forbindelse med deres kundekendskabsprocedurer tage højde for dette. 
+
+Virksomheden skal på den baggrund ud fra en risikovurdering fastlægge, hvilke oplysninger virksomheden har behov for. 
+
+Virksomheden kan eksempelvis vurdere den enkelte forening på baggrund af en række faktorer som f.eks. foreningens formål, herunder medlemskredsen, om foreningen er medlem af et anerkendt hovedforbund eller hovedforening, om foreningen er godkendt som en folkeoplysende forening og offentlige tilgængelig information om foreningen, samt hvordan foreningen finansieres. 
+
+Når kunden er en juridisk person, skal virksomheden være opmærksom på, kravet om kontrol af de reelle ejeres identitet, se afsnit 2.3.2.3. om reelle ejere. 
+
+##### Praktiske eksempler:
+
+Uanset nedenstående eksempler er det altid en konkret vurdering i det enkelte kundeforhold, hvilke oplysninger der skal indhentes fra kunden, og hvornår disse er tilstrækkeligt kontrolleret ved uafhængige og pålidelige kilde(r). 
+
+Virksomheden skal dog som minimum altid indhente navn og cpr-nr. eller lignende, hvis den pågældende ikke har et cpr-nr. 
+
+Et eksempel på en proces for hvordan indhentning og kontrol af en fysisk kunde kan foregå, hvor det er valgt ud fra en risikovurdering, at kontrollen sker ved brug af to kilder: 
+
+- Kunden oplyser sit navn og cpr-nr. til virksomheden 
+- Kunden foreviser virksomheden sit kørekort 
+- Virksomheden kontrollerer navn og cpr-nr. ved opslag i CPR 
+- Virksomheden kontrollerer, at oplysningerne på kørekortet stemmer overens med kundens oplyste navn og cpr-nr. Samtidig kontrollerer virksomheden, at billedet på kørekortet stemmer overens med kundens udseende. 
+- Virksomheden opbevarer dokumentation for kontrollen af identitetsoplysningerne, dvs. i dette tilfælde kopi af kørekort og revisionsspor for opslag i CPR. 
+
+For nogle kunder kan det være svært at fremskaffe standard legitimationsdokumenter, som f.eks. sundhedskort og kørekort. 
+
+Denne type kunder kan f.eks. være *arbejdstagere fra udlandet, udenlandske studerende, asylansøgere, flygtninge, hjemløse, personer under værgemål og mindreårige*. 
+
+Virksomheden bør i den forbindelse have en tilgang til kunden, der kompenserer for de udfordringer, som en sådan kunde har ved at skulle fremskaffe dokumentation for hans/hendes identitet. 
+
+Det kan derfor i nogle tilfælde være nødvendigt for en virksomhed at benytte sig af andre kontrolkilder end sædvanlig. 
+
+Det kan være i form af andre kilder, som kunden er i besiddelse af, men som virksomheden almindeligvis ikke benytter sig af. 
+
+Det kan f.eks. være en forevisning af et brev fra en offentlig myndighed til kunden sammenholdt med en opholdstilladelse. 
+
+Der kan i nogle tilfælde også være nødvendigt at kontakte en offentlig myndighed og bede denne om at bekræfte personens identitet. 
+
+*Udenlandske arbejdstagere og studerende* vil ikke altid fra starten af deres ophold i Danmark have deres cpr-nr. eller folkeregisterregistrering. 
+
+Dog kan disse typer kunder have behov for at oprette en dansk bankkonto til brug for at opfylde betingelserne for deres opholdstilladelse. 
+
+Dette er tilfældet ved arbejdstagere fra ikke EU-lande, hvor udlændingeloven i visse tilfælde stiller krav til, at de får deres løn udbetalt til en konto i Danmark som betingelse for opholdstilladelse. 
+
+I disse tilfælde kan virksomheden f.eks. benytte kundens opholdstilladelse som kilde sammen med andre kilder, som f.eks. pas. 
+
+I tvivlstilfælde om f.eks. gyldigheden af opholdstilladelsen for arbejdstagere fra ikke EU-lande kan virksomheden rette henvendelse til Styrelsen for International Rekruttering og Integration (SIRI), der kunne bekræfte denne.
+
+#### Distancekunder 
+
+Der er bedre mulighed for, at virksomheden kan sikre sig, at kunden er den person, som kunden udgiver sig for at være, når virksomheden møder kunden fysisk. 
+
+Når kunden ikke er fysisk til stede (distanceforhold), skal virksomheden forholde sig til den potentielt øgede risiko ved dette, og billedlegitimation vil ikke give den samme sikkerhed som ved fysisk fremmøde, medmindre virksomheden f.eks. benytter sig af digitale systemer, der giver virksomheden mulighed for, at kunden fremviser sin billedlegitimation samtidig med, at virksomheden kan se kunden via digitale systemer, f.eks. via et live videolink. 
+
+Dette vil være med til at sikre en øget sikkerhed for, at kunden er den, som kunden udgiver sig for at være. 
+
+Omfanget af kontrollen af identitetsoplysninger om kunder, der ikke er fysisk til stede, afhænger også af egenskaber og karakteristika ved det produkt eller ydelse som forretningsforbindelsen angår i forhold til risikoen for hvidvask og finansiering af terrorisme. 
+
+Virksomheden skal således altid ud fra en risikovurdering vurdere, hvilke kontrolkilder der er nødvendige for at sikre sig, at kendskabet til kunden er tilstrækkeligt, herunder om der skal anvendes mere end en kilde til kontrol af identitetsoplysninger eller mitigerende tiltag. 
+
+Et eksempel på et mitigerende tiltag kan eksempelvis være, at virksomheden sender et fysisk brev med en unik kode til kundens folkeregisteradresse, som kunden efterfølgende skal oplyse virksomheden om f.eks. telefonisk eller ved at kunden logger på virksomhedens hjemmeside, se afsnit nedenfor om brug af NemID for yderligere eksempler på mitigerende tiltag.
+
+
+#### Brug af NemID 
+
+*NemID* kan bruges i forbindelse med kontrol af kundens identitetsoplysninger ved brug af PID cpr-match til kontrol af cpr-nr. og offentlig digital signatur (OCES) til kontrol af navn. 
+
+NemID er en pålidelig og uafhængig kilde, men i de tilfælde hvor der ikke kun er tale om begrænset risiko, vil det være nødvendigt for virksomheden at benytte sig af andre kontrolkilder eller mitigerende tiltag sammen med NemID for at kunne opnå tilstrækkeligt kendskab til kunden i forbindelse med gennemførelse af kundekendskabsproceduren. 
+
+Virksomheden skal i den forbindelse være opmærksom på den potentielt øgede risiko, der er for kundeforhold, hvor kunden ikke møder fysisk frem. Se afsnit ovenfor om distancekunder. 
+
+Virksomheden kan kun bruge NemID som den eneste kontrolkilde i de tilfælde, hvor virksomheden har foretaget en risikovurdering af det konkrete kundeforhold og vurderet, at der kan gennemføres lempede kundekendskabsprocedurer, og at virksomheden kan opnå tilstrækkelig kendskab til kunden ved brug af NemID. 
+
+Virksomheden skal dog også være opmærksom på, at der i forhold til det konkrete kundeforhold kan være behov for at indhente andre oplysninger, f.eks. om forretningsforbindelsens formål og tilsigtede beskaffenhed. 
+
+Hvis forretningsforbindelsen med kunden indeholder produkter eller ydelser, hvor det fremgår af den nationale risikovurdering for henholdsvis hvidvask og finansiering af terrorisme, at der er tale om produkter eller ydelser med en høj risiko, vil NemID ofte ikke være tilstrækkeligt til at sikre tilstrækkeligt kendskab til kunderne. 
+
+NemID som kontrolkilde kan suppleres med andre tiltag, f.eks. andre kontrolkilder. 
+
+Det kan også være en mulighed for virksomheden at benytte sig af mitigerende tiltag i forbindelse med brug af NemID. 
+
+Mitigerende tiltag kan f.eks. være, at den første betaling sker via kundens Nemkonto, en unik kode sendes til et mobiltelefonnummer, der er verificeret, eller telefonisk kontakt gennem et verificeret telefonnummer.
+
+Virksomheden skal kunne godtgøre over for den myndighed, der fører tilsyn med overholdelsen af hvidvaskloven på området, at virksomhedens kendskab til kunden er tilstrækkeligt i forhold til risikoen for hvidvask og finansiering af terrorisme. 
+
+Virksomhedens kundekendskabsprocedurer og herunder kontrollen af identitetsoplysninger skal derfor være tilrettelagt på en sådan måde, at virksomheden har et tilstrækkeligt kendskab til den konkrete kunde.
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 11, stk. 1, nr. 2 og stk. 4**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1, litra a**. 
+
+
+#### Reelle ejere 
+
+Begrebet reelle ejere anvendtes i den tidligere hvidvasklovgivning, og anvendes nu både i hvidvasklovgivningen og i regelsættet om registrering af reelle ejere. 
+
+Begrebet i de to lovgivninger har nu samme baggrund i 4. hvidvaskdirektiv, og der er dermed tale om et fælles begreb. 
+
+I regelsættet om registrering af reelle ejere er der krav til, at forskellige juridiske personer mv. skal registrere sine reelle ejere i et register. 
+
+I hvidvasklovgivningen er der krav til, at virksomheder, som er omfattet af hvidvaskloven, skal identificere og kontrollere sine kunders reelle ejere. 
+
+Nogle juridiske personer mv. er ikke omfattet af kravet om registrering af sine reelle ejere i regelsættet om registrering af reelle ejere, men denne undtagelse gælder ikke for hvidvasklovens krav til at virksomheder skal identificere og kontrollere sine kunders reelle ejere som led i sine kundekendskabsprocedurer. 
+
+Virksomheder skal derfor også identificere reelle ejere, hvis deres kunde f.eks. er en frivillig forening eller en andelsboligforening, selvom de ikke er omfattet af reglerne om registrering af reelle ejere. 
+
+Da reglerne om reelle ejere har samme baggrund, kan virksomheder, der efter hvidvaskloven skal identificere sine kunders reelle ejere, benytte *Erhvervsstyrelsens Vejledning om reelle ejere* til hjælp til fortolkning af begrebet og vurdering af, hvem der skal identificeres samt til fastlæggelse af ejer- og kontrolstruktur, men virksomhederne skal dog være opmærksomme på, at reglerne for kundekendskabsprocedurer er i hvidvaskloven. 
+
+Virksomheden skal som led i sin kundekendskabsprocedurer identificere kundens reelle ejere. 
+
+Virksomheden skal: 
+
+- indhente identitetsoplysninger om den eller de reelle ejere 
+- gennemføre rimelige foranstaltninger for at kontrollere den eller de reelle ejeres identitet og 
+- hvis kunden er en juridisk person, skal virksomheden klarlægge den juridiske persons ejer- og kontrolstruktur. 
+
+##### Definition af reelle ejer 
+
+En kundes reelle ejer er den eller de fysiske personer, der i sidste ende ejer eller kontrollerer kunden, eller den eller de fysiske personer, på hvis vegne en transaktion eller aktivitet gennemføres. 
+
+Reelle ejere kan kun være fysiske personer, og virksomheden skal klarlægge hele kundens ejer- og strukturkæde og finde frem til, hvem der i sidste ende ejer eller kontrollerer kunden.
+
+Eksempelvis hvis en kunde er et selskab A, som ejes af 100 % et andet selskab B, skal virksomheden identificere den eller de fysiske personer, der ejer og kontrollerer selskab B. 
+
+Når virksomheden skal identificere hvem der er kundens reelle ejere, skal virksomheden vurdere hvilke personer, der har en tilstrækkelig del af ejerandelene eller af kontrollen. 
+
+En indikator for hvad der er en tilstrækkelig del vil som udgangspunkt være, at personen har mere end 25 pct. af ejerandele og/eller kontrollen. 
+
+Det er dog vigtigt at fremhæve, at procentgrænsen kun er en indikator for reelt ejerskab eller kontrol. 
+
+Udgangspunktet er, at kunden har reelle ejere og kan identificere dem. 
+
+Der er dog tilfælde, hvor der ikke er nogle fysiske personer, der ejer og/eller kontrollere kunden i tilstrækkelig grad, til at de bliver omfattet af definitionen for reelle ejere. 
+
+I disse tilfælde skal kundens daglige ledelse i stedet betragtes som den eller de reelle ejere. 
+
+Hvis virksomheden har identificeret en eller flere reelle ejere, men der alligevel er tvivl om, hvorvidt de personer rent faktisk er de reelle ejere, skal både de identificerede personer og den daglige ledelse betragtes som reelle ejere af kunden. 
+
+Virksomheden skal notere de foranstaltninger, som virksomheden har iværksat i forsøget på at identificerer de reelle ejere. 
+
+Noteringen skal ske inden, virksomheden betragter den daglige ledelse som kundens reelle ejere. 
+
+Virksomheden skal gemme de oplysninger, som virksomheden har indhentet og brugt til at identificere kundens reelle ejere. 
+
+Det kan være, at virksomheden har udformet et diagram over den ”ejerkæde” der er fra kunden frem til kundens reelle ejere eller et udskrift af Erhvervsstyrelsens register over reelle ejere, hvis virksomheden har benyttet dette i sin undersøgelse. 
+
+Virksomheden kan i kundeforhold, som er begrænset risiko, også indhente de oplysninger og noteringer, som kunden selv har benyttet i forbindelse med, at kunden selv har identificeret sine reelle ejere. 
+
+Dog skal virksomheden forholde sig til kundens oplysninger og noteringer inden disse eventuelt lægges til grund som del af virksomhedens undersøgelse af kunden. 
+
+Kravet om indhentning og kontrol af reelle ejere gælder ikke for selskaber, hvis ejerandele handles på et reguleret marked eller et tilsvarende marked, som er undergivet oplysningspligt i overensstemmelse med EU-retten eller tilsvarende internationale standarder (børsnoterede selskaber). 
+
+I situationer, hvor kundens ejerandele handles på et sådan et marked, skal virksomheden således ikke identificere og kontrollere reelle ejere af kunden. 
+
+##### Indhentelse af identitetsoplysninger 
+
+Der skal altid indhentes oplysninger om den eller de reelle ejeres identitet (bortset fra ejere af børsnoterede selskaber). 
+
+Oplysningerne skal indeholde oplysninger om navn og cpr-nr. eller lignende, hvis den pågældende ikke har et cpr-nr. Kravet gælder f.eks., når kunden er en juridisk person, eksempelvis et selskab, en fond eller et andet juridisk enhed. 
+
+Det gælder også f.eks. i forbindelse med en nominee-ordning, hvor det er den person på hvis vegne nomineen fungerer, der er den reelle ejer. 
+
+Virksomheden skal indhente oplysninger, som fastlægger den eller de reelle ejeres identitet. 
+
+Det beror på en konkret vurdering, hvordan og hvilke oplysninger, som virksomheden indhenter om kundens reelle ejere, men vurdering kan aldrig føre til, at der ikke indhentes nogle identitetsoplysninger.
+
+
+##### Kontrol af reelle ejeres identitetsoplysninger 
+
+Kontrollen af de indhentede identitetsoplysninger skal foretages ud fra en risikovurdering. 
+
+Det er en risikovurdering, hvad der konkret er rimelige foranstaltninger i forhold til kunden. 
+
+Virksomheden skal dermed altid indhente identitetsoplysninger og derefter foretage en risikovurdering af, hvorvidt og hvorledes disse skal kontrolleres. 
+
+At der skal gennemføres ”rimelige foranstaltninger” for at kontrollere en reel ejers identitetsoplysninger betyder, at der f.eks. ud fra en risikovurdering kan anvendes oplysninger om de reelle ejere, der udleveres af kunden, hvis virksomheden har vurderet, at kundeforholdet har begrænset risiko. 
+
+Denne procedure er dog ikke tilstrækkelig i forhold til kontrollen af kundens egne oplysninger. Se afsnittet "om kontrol af identitetsoplysninger". 
+
+Hvis virksomheden vurderer, at et kundeforhold er begrænset risiko, kan virksomheden dermed benytte *Erhvervsstyrelsens register over reelle ejere* som kilde til at identificere hvem kundens reelle ejere er og som kilde til kontrol. 
+
+Det skal dog bemærkes, at den offentligt tilgængelige del af registeret over reelle ejere ikke indeholder oplysninger om den reelle ejers cpr-nr. 
+
+Brug af registeret som kilde til kontrol er derfor kun muligt i tilfælde med begrænset risiko, hvor det er vurderet, at dette er tilstrækkeligt som rimelig foranstaltning for at kontrollere den reelle ejer. 
+
+Det vil som udgangspunkt være i tilfælde, hvor både kunden og produktet er begrænset risiko. 
+
+Hvis virksomheden vurderer, at der er en øget risiko ved kundeforholdet, vil det ikke være tilstrækkeligt alene at kontrollere identitetsoplysningerne ved at få dem udleveret af kunden. 
+
+Her kan der være behov for, at den eller de reelle ejeres identitet kontrolleres ved en eller flere uafhængige kilder, f.eks. ved kopi af et offentligt udstedt identifikationsdokument, se afsnittet "om eksempler på kontrol ved en pålidelig og uafhængig kilde". 
+
+##### Klarlæggelse af ejer- og kontrolstruktur
+
+Når kunden er en juridisk person, skal virksomheden altid klarlægge den juridiske persons ejer- og kontrolstruktur. 
+
+Med ejer- og kontrolstruktur skal forstås, at virksomheden indhenter oplysninger om eksempelvis kundens ledelse, tegningsregler, ejeraftaler, kapitalklasser eller lignende. 
+
+Virksomheden skal selv vurdere hvilke oplysninger, der er relevante for at klarlægge kundens ejer- og kontrolstruktur. 
+
+Virksomhedens klarlæggelse af en kundes ejer- og kontrolstruktur bidrager til at afdække, hvem der er kundens reelle ejere. Virksomheden kan derfor ofte med fordel klarlægge ejer- og kontrolstrukturen først, for at få klarhed over, hvem virksomheden skal identificere og eventuelt kontrollerer som kundens reeelle ejere. 
+
+Det er derfor nødvendigt, at virksomheden altid klarlægge hele kundens ejer- og kontrolstruktur, dvs. at virksomheden skal klarlægge hele ejerkæden af eventuelle juridiske personer (virksomheder) for at finde frem til de personer, der i sidste ende ejer eller kontrollerer kunden. 
+
+En klarlæggelse af ejer- og kontrolstukturen omfatter derfor også eventuelle udenlandske juridiske eller fysiske ejere.
+
+Virksomheden kan ud fra en risikovurdering beslutte, hvilke undersøgelser der iværksættes for at klarlægge ejer- og kontrolstrukturen. 
+
+Det kan derfor i tilfælde med begrænset risiko være tilstrækkeligt, at virksomheden klarlægger strukturen ved et koncerndiagram, der viser ejerandelene, eller ved at virksomheden indhenter oplysningerne via CVR (Det Centrale Virksomhedsregister), herunder om virksomhedens reelle ejere. 
+
+I tilfælde med øget risiko kan det være nødvendigt, at virksomheden indhenter dokumentation for ejerandelene i form af vedtægter, aktiebog eller lignende. 
+
+Der skal i alle forretningsforbindelser med juridiske personer gennemføres foranstaltninger, der klarlægger ejer- og kontrolstrukturen, men virksomheden fastlægger selv omfanget af foranstaltningerne ud fra virksomhedens risikovurdering af forretningsforbindelsen. 
+
+**Konkrete eksempler på identifikation af reelle ejere**
+
+Uanset følgende eksempler, er det en konkret vurdering, som virksomheden selv skal foretage ved etablering af en forretningsforbindelse i henhold til hvidvaskloven. 
+
+Virksomheden skal dog som minimum altid indhente navn og cpr-nr. eller lignende, hvis kundens reelle ejere ikke har et cpr-nr. 
+
+**Offentlig ejet:**
+
+I forretningsforbindelser, hvor kunden er eller ejes 100 pct. af en offentlig myndighed, kommune, statsejet virksomhed mv., vil der ikke være fysiske personer, der ejer eller kontrollerer en kunden i et sådan omfang, at vedkommende omfattes af definitionen af reel ejer, og derfor skal den daglige ledelse betragtes som reelle ejer. 
+
+Hvis kunden er en statslig myndighed, en styrelse eller en selvstændig offentlig ejet virksomhed, er det direktøren, der skal betragtes som reel ejer. 
+
+Hvis kunden er et ministerium er det departementschefen, der skal betragtes som reel ejer. 
+
+Hvis kunden f.eks. er et aktieselskab, der et 100% af en statslig myndighed, er det den daglige ledelse i aktieselskabet (direktionen), der skal betragtes som reelle ejere. 
+
+Er kunden en offentlig/kommunalt ejet daginstitution eller lignende, skal virksomheden betragte daginstitutionens daglige ledelse, som den eller de reelle ejere i henhold til hvidvaskloven. 
+
+Hvis en daginstitution f.eks. skal lease en kaffemaskine, er det den, der dagligt leder og træffer beslutninger på vegne af institutionen, der skal betragtes som reel ejer. 
+
+Er det selve kommunen der er kunden, er det en konkret vurdering, hvem der varetager den daglige ledelse. 
+
+I en kommune kan det være borgmesteren eller en anden fysisk person, der har lignende beføjelser over den del af kommunen, som indgår aftalen med virksomheden, der i dette tilfælde vil være den, der varetager den daglige ledelse. Kommuner kan have administrative strukturer, f.eks. hvor de har flere borgmestre og ikke kun en borgmester. 
+
+Er det f.eks. børne- og ungeudvalget i Københavns Kommune, der træffer beslutning om opførsel af nye spejderhytter og dermed er bygherre, kan det vurderes, at det er borgmesteren for børne- og ungeudvalget, der skal betragtes som den reelle ejer i det konkrete eksempel. 
+
+**Frivillige foreninger og andelsboligforeninger:**
+
+Når virksomheden skal identificere reelle ejere af en kunde, kan virksomheden tage udgangspunkt i, hvilke type virksomhed eller anden juridisk enhed, som kunden ligner. 
+
+Er kunden f.eks. en frivillig forening eller en andelsboligforening, kan virksomheden tage udgangspunkt i, hvordan virksomheden identificerer reelle ejere i andre typer foreninger, f.eks. visse foreninger, som er omfattet af regelsættet om registrering af reelle ejere. 
+
+Som udgangspunkt skal virksomheden finde ud af, om der er en eller flere personer, der ejer eller kontrollerer foreningen i overensstemmelse med definitionen af reelle ejere. 
+
+Er der ingen personer, der kan identificeres, skal den daglige ledelse betragtes som reelle ejere. 
+
+I foreninger vil det ofte enten være foreningens bestyrelse eller direktionen, hvis foreningen har en sådan, der vil udgøre foreningens daglige ledelse, og som dermed skal betragtes som reelle ejere. 
+
+Det er dog en konkret vurdering af den enkelte forening og dennes forhold. 
+
+Til brug for identifikation af de reelle ejere, kan virksomheden f.eks. indhente foreningens stiftelsesdokument, vedtægter eller referater fra generalforsamlingen. 
+
+**Investeringsforeninger:** 
+
+Når kunden er en investeringsforening eller en afdeling i en investeringsforening, skal virksomheden identificere og gennemføre rimelige foranstaltninger for at kontrollere de fysiske personer, der i sidste ende ejer og kontrollerer den juridiske enhed, som virksomheden indgår forretningsforbindelsen med. 
+
+I dette eksempel vil det være investeringsforeningen som juridisk person med et CVR-nr., også selvom der f.eks. kun skal leveres en ydelse til en enkelt afdeling i investeringsforeningen. 
+
+Er der ingen personer, der ejer eller kontrollerer investeringsforeningen i en sådan grad, at de kan defineres som reelle ejere, skal foreningens daglige ledelse betragtes som reel ejer. 
+
+Til dette kan henvises til Erhvervsstyrelsen Vejledning bilag 2. 
+
+**Alternative investeringsfonde:**
+
+Når kunden er en alternativ investeringsfond (AIF). En AIF kan f.eks. være en private equity fond, ejendomsfond eller andet. 
+
+Når kunden er en AIF, skal virksomheden identificere og gennemføre rimelige foranstaltninger for at kontrollere de fysiske personer, der i sidste ende ejer og kontrollerer den juridiske enhed, som virksomheden indgår forretningsforbindelsen med. 
+
+I dette eksempel vil det være AIF’en som juridisk person med et CVR-nr. 
+
+Er der ingen personer, der ejer eller kontrollerer AIF’en i en sådan grad, at de kan defineres som reelle ejere, skal AIF’ens daglige ledelse betragtes som reel ejer. 
+
+**Filialer:**
+
+Hvis kunden er en filial, skal virksomheden klarlægge ejer- og kontrolstrukturen og finde frem til, hvilke fysiske personer, der ejer eller kontroller filialens hoved/moderselskabet. 
+
+**Folkekirkens menighedsråd:**
+
+For folkekirkens menighedsråd er det alle medlemmerne af menighedsrådet, der skal betragtes som reelle ejere. 
+
+**Fonde:**
+
+Hvis en kunde er en fond, skal virksomheden vurdere hvem der i sidste ende direkte eller indirekte kontrollerer fonden.
+
+Fonde, herunder erhvervsdrivende og ikke-erhvervsdrivende fonde, er kendetegnet ved, at de ikke har ejere. 
+
+Som reel ejer af en fond anses den eller de fysiske personer, der i sidste ende direkte eller indirekte kontrollerer fonden eller på anden måde har ejerskabslignende beføjelser, herunder bestyrelsen og i nogle tilfælde også særligt begunstigede personer. 
+
+Sidstnævnte skal dog som udgangspunkt kun anses som reelle ejere, hvis de med navns nævnelse efter fondens vedtægt har et retskrav på at modtage en ikke ubetydelig andel af fondens midler. 
+
+I dansk ret kan en stifter af en fond ikke have ejerbeføjelser over fondens midler, og stifteren er derfor som udgangspunkt ikke reel ejer. 
+
+Det er dog en konkret vurdering, og det kan ikke udelukkes, at der kan være situationer, hvor stifteren som følge af særlige beføjelser i fondens vedtægter, kan vurderes at være reel ejer. 
+
+Stifteren kan derudover være reel ejer, hvis vedkommende er medlem af bestyrelsen i fonden. 
+
+**Trusts og lignende retlige arrangementer:** 
+
+Hvis en kunde f.eks. ejes af en *udenlandsk trust*, skal virksomheden identificere og gennemføre rimelige foranstaltninger for at kontrollere kundens reelle ejere. 
+
+Virksomheden skal derfor vurdere trusten, og herunder trustens stiftere, forvaltere (trustee(s)) og protektoren, som trustens reelle ejere. 
+
+**Virksomheder med ejerandele, der handles på et reguleret marked:**
+
+Er kunden ejet af en *(børsnoteret) virksomhed*, hvis ejerandele handles på et reguleret marked, vil det være kundens daglige ledelse, der skal betragtes som reelle ejere, da der ikke er reelle ejere af den (børsnoterede) virksomhed. 
+
+Ved identifikation af, hvem der er reel ejer i andre typer juridiske personer mv. kan henvises til Erhvervsstyrelsens Vejledning om reelle ejere, som bl.a. vejleder om identifikation af reelle ejere selskaber, fonde, visse foreninger og i virksomheder, som er omfattet af finansiel lovgivning mv. Erhvervsstyrelsens Vejledning bilag 2 er et fortolkningsbidrag i forbindelse med udførelse af kundekendskabsprocedurer til, hvem der skal betragtes som reelle ejere i de situationer, hvor der ikke kan identificeres nogle fysiske personer, der ejer eller kontrollerer virksomheden i en sådan grad, at de bliver reelle ejere i hvidvasklovens forstand. 
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 11, stk. 1, nr. 3 og § 2, stk. 1, nr. 1 og 9.** 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1, litra b**. 
+**Henvisning til Erhvervsstyrelsens vejledning: Reelle ejere, vejledningen handler om reelle ejere, herunder hvem, hvad og hvor der skal registreres**. 
+
+#### Forretningsforbindelsens formål og tilsigtede beskaffenhed 
+
+Virksomheden skal vurdere forretningsforbindelsens formål og tilsigtede beskaffenhed. 
+
+Hvis det er relevant, skal virksomheden også indhente oplysninger om formålet og den tilsigtede beskaffenhed hos kunden. 
+
+Virksomheden skal foretage en konkret vurdering af, om det er relevant at indhente oplysninger. Vurderingen kan bl.a. bero på produkttypen. 
+
+Viden om forretningsforbindelsens formål og tilsigtede beskaffenhed hjælper virksomheden til at vurdere, om forretningsforbindelsen har et legitimt formål og til at få en dybere indsigt i forretningsforbindelsens samlede risikoprofil. 
+
+Kravet om, at virksomheden skal vurdere forretningsforbindelsens formål, betyder, at virksomheden skal kende kundens formål med, hvorfor kunden ønsker den pågældende forretningsforbindelse, f.eks. at kunden skal bruge en indlånskonto til udbetaling af løn eller at kunden ønsker at investere i aktier og andre værdipapirer. 
+
+Formålet med forretningsforbindelsen er relevant for virksomhedens vurdering af det konkrete kundeforhold, herunder i vurderingen af, om der er risiko for hvidvask eller finansiering af terrorisme. 
+
+Derudover er oplysningerne relevante for virksomhedens overvågning af kundeforholdet og til virksomhedens afgørelse af, om en specifik transaktion eller lignende er udsædvanlig for kunden og for kundens formål med forretningsforbindelsen. 
+
+Virksomheden skal have indsigt i, hvorfor kunden ønsker produktet eller ydelsen. 
+
+Hvis virksomheden vurderer, at det er relevant at indhente oplysninger om formålet, kan virksomheden f.eks. have brug for oplysninger om: 
+
+- hvorfor kunden ønsker et bestemt produkt eller tjenesteydelse 
+- hvad der er den forventede størrelse, antal eller frekvens af transaktioner, som kunden ønsker gennemført. 
+
+Hvis virksomheden ud fra en risikobaseret vurdering ikke indhenter oplysninger om formålet, kan virksomheden benytte sin overvågning af kunden til at vurdere, om kundens formål med forretningsforbindelsen er i overensstemmelse med virksomhedens viden herom. 
+
+Her kan virksomheden ud fra overvågningen vurdere, hvad der er typisk eller sædvanligt for det pågældende kundetypeforhold, og om den konkrete kunde afviger fra dette. 
+
+Kravet om, at virksomheden skal vurdere forretningsforbindelsens tilsigtede beskaffenhed, betyder, at virksomheden skal kende karakteren af forretningsforbindelsen, dvs. de egenskaber og forhold, der tilsammen giver forretningsforbindelsen sin karakter. 
+
+Virksomheden vil oftere have behov for at indhente oplysninger om den tilsigtede beskaffenhed end om formålet, fordi formålet kan være fastlagt i eller følge af produkttypen. 
+
+Forretningsforbindelsens tilsigtede beskaffenhed siger noget konkret om kunden og kundens anvendelse af produktet. 
+
+Dette kan f.eks. være at forstå oprindelsen af kundens midler, eller forstå hvordan en virksomhedskunde opnår sin indtjening. 
+
+Hvis virksomheden vurderer, at det er relevant at indhente oplysninger om den tilsigtede beskaffenhed, kan virksomheden f.eks. have brug for oplysninger om: 
+
+- kundens konkrete forretningsmodel, hvis kunden er en juridisk person 
+- kundens indtægts- og formueforhold 
+- hvordan kunden påtænker at anvende midlerne.
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 11, stk. 1, nr. 4**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1, nr. c.** 
+
+#### Løbende overvågning af forretningsforbindelsen 
+
+Virksomheden skal løbende overvåge den etablerede forretningsforbindelse. Kravet gælder både i forhold til overvågning af de transaktioner, som kunden foretager, og i forhold til andre aktiviteter, som f.eks. den almindelige kontakt med kunden, generelt betegnet kundens adfærd. 
+
+Formålet med overvågningen er blandt andet at afdække, om den enkelte kundes adfærd er i overensstemmelse med virksomhedens kendskab til kunden. 
+
+Virksomheden skal således overvåge kundens adfærd for at sikre, at denne stemmer overens med kundens forretnings- og risikoprofil og samtidig også andre kunder, der har samme forretnings- og risikoprofil. 
+
+Ved ”kundens forretningsprofil” menes der oplysninger om kundens profil på baggrund af oplysninger om f.eks. formål med forretningsforbindelsen, omfang af transaktioner, transaktioners størrelse, regelmæssighed og varighed. 
+
+Ved ”kundens risikoprofil” menes der, at overvågningen af forretningsforbindelsen skal ske ud fra den profil af kunden, som virksomheden er kommet frem til på baggrund af sin risikovurdering af forretningsforbindelsen med kunden, se afsnittet "om risikovurdering – kundekendskabsprocedurer". 
+
+Overvågningen skal tilrettelægges efter den enkelte kundes forhold og løbende justeres på baggrund af kundens historik og virksomhedens viden om kunden. 
+
+Dog kan virksomheder med en simpel forretningsmodel, vælge at overvåge alle eller en gruppe af sine kunder på samme måde, f.eks. en pengeoverførselsvirksomhed, der har samme kundetyper og kun overfører penge til et geografisk område. 
+
+Virksomheden skal ved overvågningen sikre sig, at de transaktioner og aktiviteter, som kunden foretager, er i overensstemmelse med virksomhedens viden om kunden og dennes forretnings- og risikoprofil. 
+
+Hvis en kundes forretnings- og risikoprofil ændrer sig, skal virksomheden justere overvågningen af kunden. 
+
+Virksomheden skal ud fra en risikovurdering søge oplysning om oprindelsen af kundens midler (midlernes oprindelse), hvis en transaktion er udsædvanlig ud fra virksomhedens viden om kundens indtjenings- og formueforhold, herunder likviditet. 
+
+Virksomheden skal i sådanne tilfælde kende oprindelsen af de midler, som vedrører forretningsforbindelsen. 
+
+Det vil typisk ikke være tilstrækkeligt at få en underbygget oplysning fra kunden for at afkræfte en mistanke, men virksomheden skal indhente dokumentation f.eks. en salgsaftale, lønsedler, boopgørelse eller lignende. 
+
+Begrebet midlernes oprindelse dækker over, hvor følgende har oprindelse: 
+
+- kundens formue, 
+- midler, der indgår i transaktionen eller 
+- midlerne, der er en del af forretningsforbindelsen. 
+
+Ønsker en kunde f.eks. at indsætte/har indsat et stort beløb, som virksomheden vurderer er udsædvanlig for kunden, kan virksomhed eksempelvis indhente oplysninger og dokumentation for oprindelsen af de midler, som kunden ønsker at indsætte/har indsat. 
+
+I forhold til kunder med en øget risiko kan det være nødvendigt at kende midlernes oprindelse, inden virksomheden foretager en transaktion eller anden aktivitet for kunden. 
+
+Det vil f.eks. være relevant i tilfælde, hvor virksomheden ud fra deres risikovurdering af forretningsforbindelsen har vurderet, at der er tale om et kundeforhold med øget risiko for hvidvask og finansiering af terrorisme. Se afsnit 7 om skærpede kundekendskabsprocedurer. 
+
+I forhold til forretningsforbindelser, der handler om rådgivnings- og formidlingsopgaver, skal virksomheden overvåge, om kundens forespørgsler er usædvanlige i forhold til virksomhedens oplysninger om kunden og dennes forretnings- og risikoprofil. 
+
+Da kravet om overvågning både gælder for transaktioner og aktiviteter, kan det være relevant både at have en manuel og systembaseret overvågning. 
+
+En manuel overvågning kan f.eks. være, at virksomheden har fastlagt, hvordan de ansatte rapporterer mistænkelig adfærd til den hvidvaskansvarlige. 
+
+Den systembaserede overvågning kan f.eks. være et IT-system, der overvåger kundernes transaktioner og aktiviteter og ved usædvanlig eller mistænkelig adfærd, udløser en alarm. 
+
+Der er ikke krav om, at virksomheder har et IT-system til overvågning, men i virksomheder med et stort antal af kunder og komplekse produkter og transaktioner, kan det være nødvendigt for at sikre den fornødne overvågning. 
+
+Det kan f.eks. være aktuelt i forbindelse med et pengeinstituts overvågning af deres kunder.
+
+**Retsgrundlaget:**
+
+
+**Henvisning til hvidvaskloven: § 11, stk. 1, nr. 5**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1, litra d**.
+
+
+#### Løbende ajourføring af oplysninger om kunden 
+
+Oplysninger, dokumenter og data, der er indhentet om en kunde, skal løbende ajourføres med henblik på, at virksomheden kan vurdere, om forretningsforbindelsens risiko er ændret. 
+
+Det betyder, at der kan være behov for, at oplysninger, som virksomheden indhenter som led i sine kundekendskabsprocedurer, bliver opdateret i løbet af kundeforholdet. 
+
+Virksomheden kan fastsætte procedurer for ajourføringen. Virksomheden kan f.eks. beslutte, at ajourføring af oplysninger om kunder, såfremt de er inddelt i forskellige risikoklassifikationer, kan fastsættes i forskellige intervaller ud fra om de f.eks. er henholdsvis begrænsede, mellem eller høj risiko. 
+
+Se afsnittene "om en kundes relevante omstændigheder ændrer sig" og "om kundekendskabsprocedurer ved passende tidspunkter".
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 11, stk. 1, nr. 5**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1, litra d**.
+
+
+### Når en person handler på vegne af en kunde
+
+Når en person handler på vegne af en kunde eller når der er tvivl om, hvorvidt en person handler på egne vegne skal virksomheden:
+
+- Identificere personen 
+- Kontrollere personens identitet ved en pålidelig og uafhængig kilde.
+
+Kravet opstår i de tilfælde, hvor en person selv oplyser, at vedkommende handler på vegne af en anden, eller hvor virksomheden er i tvivl om, hvorvidt personen handler på vegne af sig selv. 
+
+Den fysiske eller juridiske person, som en anden person handler på vegne af, er kunden, og det er derfor denne person, som virksomheden skal gennemføre kundekendskabsprocedurer på. 
+
+Den person, der handler på vegne af kunden, er virksomheden alene forpligtet til at identificere og kontrollere identiteten af. 
+
+Det betyder, at virksomheden ikke skal gennemføre andre kundekendskabsprocedurer på denne person, herunder f.eks. formål og tilsigtede beskaffenhed. 
+
+Når fysiske eller juridiske personer handler på vegne af en kunde, skal virksomheden sikre, at den fysiske eller juridiske person har beføjelse til dette. 
+
+Anvendelsesområdet for bestemmelsen vedrører tredjeparter, og på denne baggrund er stillingsfuldmagter ikke omfattet af hvidvasklovens § 11, stk. 2. 
+
+Virksomheden bør dog sikre sig, at den pågældende person handler på baggrund af en stillingsfuldmagt og inden for rammerne af denne. 
+
+Hvis virksomheden er i tvivl, om en kunde handler på egne vegne, kan det i nogle tilfælde være tilstrækkeligt at spørge kunden. 
+
+Hvis virksomheden ikke kan afkræfte tvivlen ved at spørge kunden, eller hvis der er tvivl om, hvorvidt kundens oplysninger er korrekte, skal virksomheden kontrollere kundens identitet. 
+
+Ved fuldmagtsforhold er det virksomheden, der skal vurdere, hvilken dokumentation, der er nødvendig. 
+
+Der er nogle produkter, hvor der naturligt foreligger et fuldmagtsforhold, f.eks. børneopsparinger. Dette produkt er af begrænset risiko, og barnet som kunde kan f.eks. identificeres og kontrolleres ved sin dåbsattest og forældrene eller bedsteforældrene skal identificeres og kontrolleres som fuldmagtshavere, der handler på vegne af barnet. 
+
+Der er andre fuldmagtsforhold, hvor alene ét dokument kan være tilstrækkelig dokumentation, dette kan f.eks. være en kommunalt ansat, som kan fremvise sit identitetskort, der er udstedt af kommunen, og som dokumenterer ansættelsesforholdet. 
+
+I situationer, hvor fuldmagtsforholdet ikke er klar, eller hvor der er tvivl om fuldmagtsforholdet, skal virksomheden have oplysninger eller dokumentation fra personen, som skal bevise, at personen har den nødvendige beføjelse til at handle på kundens vegne. 
+
+Kravet til, at virksomheden sikrer, at den fysiske eller juridiske person, der handler på vegne af kunden, har beføjelse til dette, gælder ikke, hvis den pågældende person er en advokat med beskikkelse i Danmark eller i et EU- eller EØS-land.
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 11, stk. 2**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1**. 
+
+
+### Begunstigede ved livs- og pensionsforsikringer 
+
+Ved livs- og pensionsforsikringer skal der indhentes identitetsoplysninger på den, der er begunstiget i forhold til policen. 
+
+Livs- og pensionsselskaber skal således som led i deres kundekendskabsprocedurer indhente navn på begunstigede. 
+
+Hvis der er tale om en unavngiven person eller en gruppe af unavngivne personer, skal virksomheden have tilstrækkelige oplysninger til at kunne identificere de begunstigede ved udbetalingstidspunktet. 
+
+”Tilstrækkelige oplysninger” betyder, at livs- eller pensionsforsikringsselskabet vurderer, at selskabet kan identificere den begunstigede på det tidspunkt, hvor udbetalingen finder sted. 
+
+Indsættelse af nærmeste pårørende som begunstiget vil være tilstrækkeligt, da den begunstigede ved udbetalingstidspunkter vil kunne identificeres ud fra de gældende regler for nærmeste pårørende. 
+
+Så snart den begunstigede er identificeret eller udpeget, skal virksomheden indhente identitetsoplysninger om vedkommende. 
+
+Indhentning af identitetsoplysninger på den begunstigede kan f.eks. ske ved, at kunden (forsikringstager) oplyser virksomheden om navn og cpr-nr. på den pågældende. 
+
+Formålet med at indhente oplysninger om navn på den begunstigede er, at disse oplysninger skal inddrages i risikovurderingen af kundeforholdet, herunder om der skal iværksættes skærpede kundekendskabsprocedurer. 
+
+Hvis en begunstigede er **PEP**, skal der gennemføres skærpede kundekendskabsprocedurer, se *Finanstilsynets vejledning til reglerne om politisk eksponerede personer*. 
+
+Kontrol af identitetsoplysninger for begunstigede Begunstigedes identitetsoplysninger skal kontrolleres på samme måde som kunder efter § 11, stk. 2.
+
+Kontrollen skal således ske på grundlag af dokumenter, data eller oplysninger indhentet fra en pålidelig og uafhængig kilde, se afsnittet "om kontrol af identitetsoplysninger". 
+
+Kontrollen af identitetsoplysninger skal ske før, udbetaling til den begunstigede finder sted. 
+
+Det betyder, at kontrollen af identitetsoplysninger kan vente med at blive gennemført til et tidspunkt inden udbetalingen til den begunstigede, men indhentelse af identitetsoplysninger kan ikke vente til dette tidspunkt.
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 12, stk.1 og 2**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 5.** 
+
+
+### Korrespondentforbindelser 
+
+Indgåelse af en korrespondentforbindelse med en respondent, der er del af Den Europæiske Union (EU) og/eller af Det Europæiske Økonomiske Samarbejdsområde (EØS), er omfattet af hvidvaskloven. 
+
+Virksomheden skal ved etablering af en korrespondentforbindelse, hvor respondenten er beliggende i EU eller EØS, gennemføre almindelige kundekendskabsprocedurer, herunder foretage en risikovurdering af den konkrete forretningsforbindelse med respondenten mv. 
+
+En korrespondentforbindelse, der indgås med en respondent i EU/EØS kan derfor f.eks. konkret vurderes at være høj risiko, og i sådan tilfælde skal virksomheden gennemfører skærpede kundekendskabsprocedurer. 
+
+
+#### Grænseoverskridende korrespondentforbindelse 
+
+Inden virksomheder omfattet af hvidvasklovens § 1, stk. 1, nr. 1-13 og 19 etablerer en grænseoverskridende korrespondentforbindelse, dvs. hvor respondenten er etableret i et land, der ikke er del af EU/EØS, skal virksomheden gennemføre en række skærpede foranstaltninger ud over de almindelige kundekendskabskrav. 
+
+Det betyder, at en korrespondentforbindelse med en respondent uden for EU/EØS er betinget af, at skærpede foranstaltninger gennemføres. 
+
+Som nævnt lige oven for betyder dette ikke, at korrespondentforbindelser beliggende inden for EU/EØS ikke kan være genstand for skærpede kundekendskabsprocedurer. 
+
+Det er virksomheden, altså korrespondenten, der er underlagt kravene om at gennemføre skærpede kundekendskabsprocedurer. 
+
+En korrespondentforbindelse defineres som: 
+
+a) Levering af pengeinstitutydelser fra et pengeinstitut (korrespondenten) til et andet pengeinstitut (respondenten), herunder oprettelse af løbende konto eller passivkonto, samt øvrige ydelser som likviditetsstyring (cash management), international overførsel af midler m.v. 
+
+b) En forbindelse mellem en virksomhed omfattet af § 1, stk. 1, nr. 1-13 eller 19, (korrespondenten) til en anden virksomhed omfattet af § 1, stk. 1, nr. 1-13 eller 19, (respondenten), hvor der leveres lignende ydelser, herunder forbindelser indgået med henblik på værdipapirtransaktioner eller overførsler af midler. 
+
+En korrespondentforbindelse er ofte karakteriseret ved dens løbende og gentagne karakter. 
+
+Der vil derfor i almindelighed ikke være etableret en korrespondentforbindelse ved gennemførelse af en enkeltstående transaktion. 
+
+Virksomheden skal dog i vurderingen af, om der er tale om en enkeltstående transaktion eller etablering af en korrespondentforbindelse, tage højde for risikoen i transaktionen, herunder beløbsstørrelse og produkt. 
+
+Virksomheden skal have klare procedurer for dette, herunder for hvordan det sikres, at det kun er tale om en enkeltstående transaktion. 
+
+*Et eksempel på en korrespondentforbindelse:*
+
+- En udenlandsk bank (respondenten), som er beliggende uden for EU/EØS, har en konto i bank X (korrespondenten), som er beliggende i Danmark. 
+- Den udenlandske bank beder bank X om at overføre penge fra den udenlandske banks konto i bank X til XX-bank 
+- Det er bank X, der leverer en pengeinstitutydelse til den udenlandske bank, hvorfor bank X er korrespondent og skal foretage skærpede kundekendskabsprocedurer over for den udenlandske bank”
+
+
+#### Korrespondentens forpligtelser: 
+
+Hvis en korrespondent, f.eks. et pengeinstitut eller en pengeoverførselsvirksomhed i Danmark, skal etablere en forretningsforbindelse med en respondent fra et land, som ikke er et EU- eller EØS-land, skal korrespondenten: 
+
+- indhente tilstrækkelige oplysninger om respondenten, så korrespondenten forstår, hvori respondentens virksomhed består 
+- bedømme respondentens omdømme ud fra offentligt tilgængelige oplysninger 
+- bedømme kvaliteten af det tilsyn, som føres med respondenten i det pågældende land, hvor respondenten er etableret f.eks. på baggrund af evalueringsrapporter fra FATF, IMF mv. eller ved at kontakte respondentens tilsynsmyndighed 
+- indhente tilstrækkelige oplysninger til at sikre, at respondenten har effektive kontrolprocedurer med henblik på at overholde regler om bekæmpelse af hvidvask og finansiering af terrorisme 
+- indhente godkendelse hos den hvidvaskansvarlige 
+- dokumentere korrespondentens henholdsvis respondentens ansvar for at opfylde af reglerne i hvidvaskloven. 
+
+Ad: Indhente tilstrækkelige oplysninger om respondentens virksomhed, omdømme og underlagte tilsyn: 
+
+Virksomheden kan f.eks. indhente oplysninger til brug for disse vurderinger via søgninger på internettet, private udbydere af information eller fra respondenten selv. 
+
+Ad: Indhente tilstrækkelige oplysninger til at sikre, at respondenten har effektive kontrolprocedurer med henblik på at overholde regler om bekæmpelse af hvidvask og finansiering af terrorisme: 
+
+Når virksomheden skal indhente tilstrækkelige oplysninger, skal virksomheden vurdere det på baggrund af de krav, der gælder i henhold til internationale standarder, som er svarende til de krav, som gælder i den danske hvidvasklov. 
+
+Korrespondenten skal altid foretage vurderingen af respondenten, og korrespondenten skal derfor selv vurdere omfanget af undersøgelsen af respondenten. 
+
+Korrespondenten kan eksempelvis, som en del af undersøgelsen af respondenten: 
+
+- benytte Wolfsberg Group’s Standard Anti-Money Laundering Questionnaire, til den potentielle respondentforbindelse med henblik på besvarelse 
+- indhente oplysninger om respondentens politik på hvidvaskområdet - undersøge, om respondenten har været dømt, involveret eller mistænkt for hvidvask eller terrorfinansiering. 
+- indhente oplysninger om respondentens procedurer for kontrol, compliancefunktion eller lignende. 
+
+Det er af afgørende betydning, at korrespondenten, ud fra en risikovurdering, ikke alene forlader sig på information levereret af respondenten selv, f.eks. via Wolfsberg Group’s Standard Anti-Money Laundering Questionnaire. 
+
+Ad: Indhente godkendelse hos den hvidvaskansvarlige:
+
+Den hvidvaskansvarlige skal i sin eventuelle godkendelse af en korrespondentforbindelse foretage en reel vurdering af respondentforbindelsen på baggrund af de oplysninger, som korrespondenten har indhentet om respondenten. Der gælder ingen formkrav til godkendelsen, men virksomheden skal kunne dokumentere den. 
+
+Ad: Dokumentere korrespondentens henholdsvis respondentens ansvar for opfyldelse af reglerne i hvidvaskloven: 
+
+Korrespondenten skal sikre sig, at der er klare aftaler mellem korrespondenten og respondenten om ansvaret for opfyldelse af kravene i hvidvaskloven i tilfælde, hvor midler tilhørende respondentens kunder vil blive indsat på en konto, der er oprettet af korrespondenten i Danmark. 
+
+Ansvaret skal derfor være ”dokumenteret” og det betyder, at det skal være skrevet ned, hvem der har ansvaret for de enkelte forpligtelser, og at denne aftale om ansvaret er vedtaget af både korrespondenten og respondenten. 
+
+Der er visse faktorer, der kan indikere en øget risiko, som korrespondenten skal være opmærksom på, som bl.a.: 
+
+- hvis kontoen kan benyttes af andre enheder i respondentbankens koncern, dvs. andre enheder, der ikke selv har været underlagt korrespondentbankens kundekendskabsprocedurer 
+
+- hvis kontoen kan bruges af andre banker eller kunder, der har et direkte forhold til respondenten, men som ikke har et direkte forhold til korrespondenten. I sådanne tilfælde, vil det betyde, at korrespondenten leverer tjenesteydelser til andre banker, end den respondent, der er indgået en korrespondentforbindelse med. 
+
+Der er faktorer, der modsat ovenstående, kan bidrage til at begrænse risikoen, bl.a.: 
+
+- Når virksomheder handler som på egne vegne og derfor ikke håndterer transaktioner på vegne af deres kunder, f.eks. i forbindelse med valutatransaktioner mellem to banker, hvor bankerne er ejerne og afviklingen af transaktionerne involverer ikke en tredjemand. Dvs. transaktionen sker på respondentbankens egen regning. 
+
+- Når transaktionen vedrører salg, køb eller pantsætning af værdipapirer på regulerede markeder, f.eks. når banken optræder som eller bruger en depotbank med direkte adgang, normalt gennem en lokal deltager til et værdipapirafviklingssystem i EU eller i et tredjeland. 
+
+Virksomheder, der indgår korrespondentforbindelser, kan bl.a. søge vejledning i konkrete risikovurderinger og risikofaktorer i EBA’s retningslinjer for risikofaktorer.
+
+
+#### Gennemstrømningskonti: 
+
+Hvis respondentforbindelsens kunde har direkte adgang til at disponere over midler indestående på en konto hos korrespondentforbindelsen, skal korrespondenten sikre sig, at respondenten gennemfører kundekendskabsprocedurer, samt at respondenten kan udlevere kundekendskabsoplysninger efter anmodning fra korrespondenten. 
+
+Hvis respondentforbindelsens kunde har direkte adgang til at råde over midler, der indestår på en konto hos korrespondenten, såkaldt gennemstrømningskonti, skal korrespondenten sikre sig, at respondenten i det land, som respondenten er etableret i, er underlagt krav om at gennemføre kundekendskabsprocedurer. 
+
+Korrespondenten kan f.eks. sikre dette ved at indhente stikprøver på respondentens oprettede kundeforhold. 
+
+Det er ikke tilstrækkeligt, at respondenten i lovgivningen er underlagt krav om kundekendskabsprocedurer. 
+
+Korrespondenten skal undersøge og dermed sikre, at respondenten faktuelt gennemfører dem. 
+
+Derudover skal korrespondenten sikre sig, at respondenten efter anmodning kan udlevere kundekendskabsoplysninger til korrespondenten. 
+
+Dette kan f.eks. ske i overensstemmelse med vilkår, der er fastsat i en kontrakt.  
+
+Disse krav betyder, at korrespondenter i Danmark er ansvarlige for respondentforbindelsers kundeforbindelser på samme måde, som hvis disse kunder havde haft direkte kundeforbindelse med korrespondenten i Danmark. 
+
+
+#### Virksomheden må ikke have en korrespondentforbindelse med et tomt selskab 
+
+Et tomt selskab er i hvidvasklovens forstand et selskab, der driver samme type virksomhed som de i hvidvaskloven § 1, stk. 1, nr. 1-13 og 19, nævnte virksomheder og personer, der ikke er til stede i det land, hvor selskabet har hjemsted, ikke ledes eller administreres i det pågældende land, og som ikke indgår i en reguleret finansiel koncern. 
+
+Virksomheden må ikke have direkte eller indirekte relationer med et tomt selskab, og derfor må virksomheden ikke etablere eller opretholde en sådan forbindelse. 
+
+Derudover skal virksomheden træffe rimelige foranstaltninger for at undgå at etablere korrespondentforbindelser med virksomheder, hvor der foreligger offentligt tilgængelige oplysninger om, at respondentforbindelsen lader tomme bankselskaber anvende korrespondentforbindelsens konti. 
+
+Med rimelige foranstaltninger skal forstås, at virksomheden foretager en vurdering af potentielle respondentforbindelser, inden virksomheden indgår i en forretningsforbindelse med dem. 
+
+I vurderingen kan bl.a. indgå en afklaring af, om den potentielle respondentforbindelse tidligere har tilladt at den pågældende respondentforbindelse lader tomme selskaber anvende sine konti. 
+
+Virksomheden må derfor f.eks. ikke oprette en korrespondentforbindelse før, virksomheden har foretaget søgninger i offentligt tilgængelige kilder om respondentforbindelsen. 
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: §§ 19, 20 og 2, stk. 4**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 19 og 24***. 
+**Henvisning til: European Banking Authority**, 
+**Retningslinjer for risikofaktorer, JC 2017 37, 04.01.2018**
+

@@ -1,0 +1,318 @@
+# Hvidvask 2 {-}
+
+## Koncerner
+
+Hvidvasklovens § 9 omhandler *koncernforbundne virksomheder*. 
+
+Denne bestemmelse dækker forholdet mellem flere virksomheder i en koncern, mens § 8 regulerer den enkelte virksomhed i koncernen. 
+
+Kravene i § 9 gælder kun de dele af koncernen, som hvidvaskloven finder anvendelse på, se hvidvasklovens § 1, stk. 1. 
+
+Det betyder, at hvis et datterselskab ikke er omfattet af hvidvaskloven, er der ikke krav om, at de koncernfælles politikker og procedurer gælder for det pågældende datterselskab. 
+
+Kravene i § 9 gælder ikke for koncerner, hvor kun datterselskaber er omfattet af hvidvaskloven.
+
+
+### Udveksling af oplysninger i koncerner 
+
+Virksomheder i koncerner skal have tilstrækkelige: 
+
+- Skriftlige politikker for databeskyttelse 
+- Skriftlige politikker og procedurer for udveksling af oplysninger inden for koncernen, der udveksles med det formål at bekæmpe hvidvask og terrorfinansiering 
+
+Kravene er et supplement til databeskyttelseslovens regler om behandlingssikkerhed. 
+
+Med reglerne er der adgang til, at virksomheder i en koncern kan udveksle oplysninger, hvis de overholder koncernens procedurer herom, som skal overholde kravene i hvidvaskloven. 
+
+Procedurer for udveksling af oplysninger i en koncern skal udarbejdes i overensstemmelse med databeskyttelsesretten. 
+
+### Koncernfælles risikovurdering, politikker og procedurer 
+
+Risikovurdering, politikker og procedurer i et moderselskab skal dække hele koncernen. 
+
+Det betyder, at risikovurdering, politikker og procedurer kan udarbejdes af en central enhed i koncernen, for eksempel moderselskabet. 
+
+Det er dog et krav, at disse er tilpasset den enkelte juridiske enheds forhold. Herunder den juridiske enheds forretningsmodel og etableringslandets risikoforhold og regler.
+
+Det er moderselskabets ansvar, at risikovurdering, politikker og procedurer på koncernniveau bliver udarbejdet. 
+
+Virksomheder, der er en del af en koncern, skal gennemføre koncernens politikker og procedurer. 
+
+Helt overordnet skal den enkelte juridiske enheds politikker og procedurer være i overensstemmelse med moderselskabets. 
+
+Udenlandske virksomheders politikker og procedurer, der har datterselskaber eller filialer etableret i Danmark, skal leve op til kravene i hvidvaskloven for så vidt angår forhold, der specifikt angår danske forhold. 
+
+Det betyder for eksempel, at der skal inddrages risikobetragtninger, der vedrører Danmark. 
+
+Omvendt skal danske koncerner, der har datterselskaber eller filialer i andre lande, sikre, at koncernens politikker og procedurer overholder etableringslandets regler om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme. 
+
+Med reglerne om grænseoverskridende virksomhed følger et krav om, at moderselskabet sikrer, at den etablerede virksomheds politikker, procedurer og kontroller om risikostyring, kundekendskabsprocedurer, undersøgelses-, noterings- og underretningspligt, opbevaring af oplysninger, screening af medarbejdere og intern kontrol overholder de nationale bestemmelser i etablerings landet. 
+
+Endvidere skal moderselskabet sikre, at der med faste intervaller føres kontrol med, at poltikker, procedurer og kontroller overholdes i den etablerede virksomhed. Dette kan ske ved stikprøve eller ved besøg i den etablerede virksomhed.
+
+**Retsgrundlaget**
+
+**Henvisning til hvidvaskloven: § 9, stk. 1 og 2 og § 31**
+**Henvisning til 4. hvidvaskdirektiv: Art. 45, stk. 1**.
+
+
+## Ansvarlige personer og funktioner 
+
+Hvidvaskloven stiller krav om, at en række ansvarlige personer og funktioner varetager forskellige funktioner i forhold til krav i loven. 
+
+Nogle af disse gælder alle virksomheder, der er underlagt lovens krav, mens andre kun gælder finansielle virksomheder. 
+
+I det følgende kapitel er de forskellige ansvarlige personer og funktioner beskrevet.
+
+
+
+
+<img src="img/Billede om ansatte funktioner.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+### Hvidvaskansvarlig - den § 7,2-udpegede person 
+
+Den daglige ledelse, som oftest er virksomhedens direktion, skal udpege en ansat, der har fuldmagt til at træffe beslutninger på virksomhedens vegne om godkendelse af virksomheden politikker, procedurer og kontroller og vedrørende godkendelse af særlige kundeforhold. 
+
+Kravet gælder følgende typer virksomheder: 
+
+- Pengeinstitutter 
+- Realkreditinstitutter 
+- Fondsmæglerselskaber 
+- Livsforsikringsselskaber og tværgående pensionskasser 
+- Sparevirksomheder 
+- Udbydere af betalingstjenester og udstedere af elektroniske penge 
+- Forsikringsmæglere, når de formidler livsforsikringer eller andre investeringsrelaterede forsikringer 
+- Virksomheder, der erhvervsmæssigt udøver aktiviteter som fremgår af hvidvasklovens bilag 1 
+- Investeringsforvaltningsselskaber og forvaltere af alternative investeringsfonde, hvis disse virksomheder har direkte kundekontakt. 
+- Danske UCITS og alternative investeringsfonde, hvis disse virksomheder har direkte kundekontakt. 
+- Valutavekslingsvirksomheder
+
+Filialer af udenlandske virksomheder er ikke omfattet af kravet. 
+
+For at opfylde kravet skal den udpegede person reelt være involveret i virksomhedens arbejde med forebyggelse af hvidvask og finansiering af terrorisme. 
+
+Den hvidvaskansvarlige kan være et medlem af virksomhedens daglige ledelse eller en anden ansat. 
+
+Den hvidvaskansvarlige skal kunne træffe beslutninger, som vedrører virksomhedens risikoeksponering på hvidvaskområdet. 
+
+Den hvidvaskansvarliges ansvarsopgaver og fuldmagt til godkendelse fratager ikke virksomhedens ledelse sit overordnede ansvar. 
+
+Men fuldmagten sikrer, at den hvidvaskansvarlige, hvor denne ikke indgår i ledelsen, får en beslutningskompetence på ledelsesniveau. 
+
+Der kan være tilfælde, hvor den hvidvaskansvarlige i sin beslutning om godkendelse af f.eks. en forretningsforbindelse med en politisk eksponeret person vælger at indhente yderligere godkendelse fra den daglige ledelse, fordi den politisk eksponerede persons risikoprofil udgør en væsentlig risiko for hvidvask eller finansiering af terrorisme. 
+
+Hvidvasklovens krav er, at personen skal have tilstrækkelig kendskab til virksomhedens risikoprofil og specifikke risikofaktorer. 
+
+I større virksomheder vil den administrerende direktør ikke kunne udpeges, da denne vil forestå en for omfattende opgaveportefølje og fungere på et for høj niveau til samtidig effektivt at kunne opfylde forpligtelsen i hvidvasklovens § 7, stk. 2. 
+
+De konkrete rammer for personens involvering skal fastlægges af virksomheden. 
+
+Det er vigtigt, at personen, for at kunne varetage ansvaret, har adgang til virksomhedens kundedatabaser og øvrige relevante oplysninger, herunder bestyrelses- og revisionsprotokoller.
+
+### Den hvidvaskansvarliges ansvarsområder
+
+Den hvidvaskansvarlige skal: 
+
+- *have fuldmagt til træffe beslutninger* på virksomhedens vegne til godkendelse af følgende: 
+
+- politikker, procedurer og kontroller (§ 8, stk. 2) 
+- etablering og videreførelse af forretningsforbindelser med PEP’er (politisk eksponerede personer) og deres nærtstående og nære samarbejdspartnere (§ 18, stk. 3) 
+- etablering af grænseoverskridende korrespondentforbindelser (§ 19, stk. 1, nr. 3) 
+
+- *have viden og indsigt i virksomhedens risici* på hvidvaskområdet og derfor kunne træffe beslutningerne, som er gavnlige for virksomheden bekæmpelse af hvidvask og finansiering af terrorisme.
+
+Virksomheden bør tilrettelægge den hvidvaskansvarliges arbejde sådan, at medarbejdere såvel som den øverste ledelse kan konsultere den hvidvaskansvarlige på alle relevante områder og orientere, så snart der er ny viden, som den hvidvaskansvarlige bør være bekendt med. 
+
+Endvidere skal den hvidvaskansvarlige have en tilstrækkelig grad af uafhængighed samt mulighed for at kunne rapportere direkte til direktion og direkte til bestyrelsen om forhold på området for hvidvask og finansiering af terrorisme. 
+
+Det er vigtigt at understrege, at det er en mulighed, som den hvidvaskansvarlige kan benytte, hvis den hvidvaskansvarlige skønner det er nødvendigt. 
+
+Det er derfor ikke en generel pligt til, at den hvidvaskansvarlige rapporterer til bestyrelsen. 
+
+Den hvidvaskansvarlige skal følge de procedurer, som virksomheden har tilrettelagt på området for hvidvask og finansiering af terrorisme. 
+
+Det er virksomhedens complianceansvarlige, i virksomheder, der er pålagt at have en compliancefunktion, der skal undersøge og føre uafhængig kontrol med, at den hvidvaskansvarliges procedurer og forretningsgange er effektive.
+
+### Uddelegering
+
+Den hvidvaskansvarlige har mulighed for at uddelegere de opgaver, der følger af bestemmelsen, til en eller flere medarbejdere med tilstrækkeligt kendskab til virksomhedens risikoprofil i forhold til hvidvask og finansiering af terrorisme. 
+
+En eventuel uddelegering skal omfatte en eller flere navngivne personer eller navnegivne stillinger. 
+
+Der må aldrig kunne opstå tvivl om, hvilken person eller stilling, som opgaven er uddelegeret til. 
+
+Der kan ikke ske uddelegering af de opgaver, der skal varetages efter hvidvasklovens § 7, stk. 2, til en enhed i virksomheden, f.eks. virksomhedens compliancefunktion. 
+
+En uddelegering til en eller flere personer vil særligt være relevant i større virksomheder med flere afdelinger, hvis arbejde omfattes af hvidvaskloven. 
+
+Det er vigtigt at bemærke, at ansvaret i lovens § 7, stk. 2 ikke kan uddelegeres, men påhviler den person, der er udpeget i henhold til bestemmelsen.
+
+Fordi ansvaret altid ligger hos den hvidvaskansvarlige, vil der ved uddelegering af opgaver til en eller flere andre navngivne personer eller stillinger f.eks. kunne fastlægges et rapporteringskrav eller lignende til den hvidvaskansvarlige, sådan han eller hun fortsat kan bære det endelige ansvar.
+
+**Retsgrundlaget**
+
+**Henvisning til hvidvaskloven: § 7, stk. 2, § 8, stk. 2, § 18, stk. 3 og § 19, stk. 1, nr. 3**
+
+**Henvisning til 4. hvidvaskdirektiv: Art. 3, nr. 12 og art. 8, stk. 5, art. 19, stk. 1, litra c og art. 20, stk. 1, litra b, (i).**
+
+### Complianceansvarlig § 8, stk. 3
+
+Hvis en virksomhed i forbindelse med anden lovgivning er forpligtet til at have en compliancefunktion, skal virksomheden udpege en complianceansvarlig på ledelsesniveau. 
+
+Formålet med kravet om complianceansvarlig er alene at fastlægge, at finansielle virksomheder, der allerede har en forpligtelse til at have en complianceansvarlig i anden lovgivning, at den complianceansvarliges funktion også dækker forpligtelser efter hvidvasklovgivningen. 
+
+Kravet gælder kun for følgende virksomheder, hvis de har en compliancefunktion: 
+
+- Pengeinstitutter 
+- Realkreditinstitutter 
+- Fondsmæglerselskaber 
+- Livsforsikringsselskaber og tværgående pensionskasser 
+- Sparevirksomheder 
+- Udbydere af betalingstjenester og udstedere af elektroniske penge 
+- Forsikringsmæglere, når de formidler livsforsikringer eller andre investeringsrelaterede forsikringer 
+
+Filialer af udenlandske virksomheder er ikke omfattet af kravet. 
+
+Den complianceansvarlige skal fungere uafhængigt. Den complianceansvarlige skal kontrollere og vurdere, at virksomheden overholder hvidvaskloven og regler udstedt i medfør heraf. 
+
+Det betyder, at personen skal kontrollere og vurdere, om virksomhedens procedurer og metoder for bekæmpelse af hvidvask og terrorfinansiering er effektive. 
+
+Derudover skal den complianceansvarlige også kontrollere og vurdere, om de foranstaltninger, der iværksættes for at afhjælpe eventuelle mangler, er effektive. 
+
+Den complianceansvarlige skal som en del af virksomhedens interne kontrol foretage kontrol af, om kontrollen foretaget af virksomheden er tilstrækkelig. Se afsnit 2.3.3 om intern kontrol. 
+
+Det kan også være den complianceansvarlige i egenskab af sin uafhængighed af den daglige ledelse, der håndterer indberetning af overtrædelser eller potentielle overtrædelser fra ansatte (whistleblower-ordning) efter lovens § 35, stk. 1.
+
+**Retsgrundlaget**
+
+**Henvisning til hvidvaskloven: § 8, stk. 3** 
+**Henvisning til 4. hvidvaskdirektiv: Art. 8, stk. 4(a)** 
+
+**Om kravene til en complianceansvarlig henvises til:** 
+
+**Bekendtgørelse nr. 1026 af 30. juni 2016 om ledelse og styring af pengeinstitutter m.fl. og** 
+**bekendtgørelse nr. 1723 af 16. december 2015 om ledelse og styring af forsikringsselskaber m.v.**
+
+### Ansvarligt direktionsmedlem § 8, stk. 5 
+
+Virksomheder skal, hvor det er vurderes relevant, udpege et medlem af direktionen, der er ansvarlig for gennemførelse af kravene i hvidvaskloven og regler udstedt i medfør heraf. 
+
+Dette betyder, at virksomheder, der ikke har en direktion, ikke er forpligtet til at udpege en person i henhold til den foreslåede bestemmelse. Bestemmelsen tilsigter derfor ikke at indføre krav om, at virksomheder skal foretage organisatoriske ændringer. 
+
+Virksomheders indretning og drift foretages af direktionen i virksomheder, der har en direktion. Kravet om at udpege et ansvarligt direktionsmedlem har dermed til formål, at hensynet og formålet med bestemmelsen forankres ledelsesmæssigt. 
+
+Der er ikke krav om, at virksomheder, der ikke har en direktion (f.eks. personligt ejede virksomheder), udpeger et direktionsmedlem. 
+
+Det ansvarlige direktionsmedlem har en særlig forpligtelse til at sikre, at virksomheden efterlever reglerne i hvidvaskloven. 
+
+Personens opgave er at sikre ledelsesmæssig forankring af og ledelsesmæssig fokus på forebyggende foranstaltninger mod hvidvask og terrorfinansiering. Dette fratager dog ikke den øvrige daglige ledelse for ansvar. 
+
+Det ansvarlige direktionsmedlem kan f.eks. varetage opgaven ved løbende at have møder med den hvidvask- og complianceansvarlige og få status på virksomhedens overholdelse af reglerne i hvidvasklovgivningen, implementering af nye regler på hvidvaskområdet. 
+
+Hvis virksomheden har mangler i forhold til overholdelse af hvidvasklovgivningen, skal det ansvarlige direktionsmedlem sørge for opfølgning på, at disse mangler bliver udbedret. 
+
+Der kan i mindre virksomheder være personsammenfald mellem personen udpeget i henhold til denne bestemmelse og personen i § 7, stk. 2, eller den complianceansvarlige i § 8, stk. 3. 
+
+Filialer i Danmark af udenlandske virksomheder Der skal ikke i en filial i Danmark af en udenlandsk virksomhed udpeges en person efter hvidvasklovens § 8, stk. 5.
+
+*Filialer i udlandet af danske virksomheder*
+
+Hvis en dansk virksomhed har filialer i udlandet, skal de være opmærksomme på, at det ansvarlige direktionsmedlem også er ansvarlig i forhold til eventuelle filialer beliggende i udlandet.
+
+**REtsgrundlaget**
+
+**Henvisning til hvidvaskloven: § 8, stk. 5**
+**Henvisning til 4. hvidvaskdirektiv: Art. 46, stk. 4.**
+
+
+### Intern revision § 8, stk. 4 
+
+Hvis en virksomhed har en *intern revision*, skal bestyrelsen i virksomheden sikre, at den interne revision vurderer, om virksomhedens politikker, procedurer og kontroller på hvidvaskområdet er tilrettelagt og fungerer på betryggende vis. 
+
+Formålet med kravet til intern revision er alene at fastlægge, at finansielle virksomheder, der allerede har en forpligtelse til at have en uafhængig revision, at denne funktion også varetager revision med kravene i hvidvaskloven og regler udstedt i medfør heraf. 
+
+Det betyder, at funktionsbeskrivelsen for den interne revision skal indeholde bestemmelser om, at den interne revision skal sikre virksomhedens overholdelse af skriftlige politikker, procedurer og kontroller på området for hvidvask og finansiering af terrorisme. 
+
+Kravet gælder følgende virksomheder, hvis de har en intern revision: 
+
+- Pengeinstitutter 
+- Realkreditinstitutter 
+- Fondsmæglerselskaber 
+- Livsforsikringsselskaber og tværgående pensionskasser 
+- Sparevirksomheder 
+- Udbydere af betalingstjenester og udstedere af elektroniske penge 
+- Forsikringsmæglere, når de formidler livsforsikringer eller andre investeringsrelaterede forsikringer
+
+### Intern audit 
+
+En *intern auditfunktion* i en virksomhed er ikke direkte omfattet af forpligtelsen i hvidvasklovens § 8, stk. 4. 
+
+Ledelsesbekendtgørelsen for forsikringsselskaber stiller dog en række krav til intern auditfunktionen, der kan sidestilles med forpligtelsen i hvidvaskloven. 
+
+Intern audit har i medfør af § 21 bekendtgørelsen om ledelse og styring af forsikringsselskaber m.v. bl.a. til opgave at vurdere, om virksomhedens interne kontrolsystem, der omfatter de administrative procedurer, og andre dele af ledelsessystemet er tilstrækkelige og effektive. 
+
+Ligesom den interne auditfunktionen bl.a. også er underlagt krav om årlig rapportering til direktionen og evt. bestyrelsen. 
+
+En intern auditfunktion i en virksomhed vil derfor også skulle forholde sig til hvorvidt virksomhedens politikker, procedurer og kontroller fungerer i overensstemmelse med hvidvaskloven.
+
+**Retsgrundlaget**
+
+**Henvisning til hvidvaskloven: § 8, stk. 4**
+**Henvisning til 4. hvidvaskdirektiv: Art. 8, stk. 4(b)**
+
+**Om kravene til intern revision henvises til:**
+
+**Bekendtgørelse nr. 1912 af 22. december 2015 om revisionens gennemførelse i finansielle virksomheder m.v. samt finansielle koncerner.**
+
+**Om kravene til intern audit henvises til:**
+
+**Bekendtgørelse nr. 1723 af 16. december 2015 om ledelse og styring af forsikringsselskaber m.v.**
+
+## Uddannelse 
+
+Virksomheden skal sikre, at de ansatte har modtaget tilstrækkelig undervisning i kravene i hvidvaskloven. 
+
+Kravet gælder også undervisning af den del af virksomhedens ledelse, der beskæftiger sig med forebyggelse af hvidvask og terrorfinansiering. Kravet gælder på virksomhedens daglige og øverste ledelse. 
+
+Det følger herudover af anden lovgivning, at bestyrelsesmedlemmer i et pengeinstitut, et realkreditinstitut eller i et forsikringsselskab skal gennemføre et grundkursus bl.a. inden for hvidvaskforebyggelse, se bekendtgørelse om grundkursus for medlemmer af bestyrelsen i pengeinstitutter, realkreditinstitutter og forsikringsselskaber. 
+
+Virksomheden er ikke forpligtet til at undervise ansatte, der varetager funktioner, der ikke relaterer sig til hvidvask eller terrorfinansiering. 
+
+For så vidt angår undervisning af ledelsen ligger der heri ikke et generelt krav om undervisning af hele virksomhedsledelsen men på samme måde som ved medarbejderne et krav om, at den del af en virksomhedsledelse, der beskæftiger sig med forebyggelse af hvidvask og terrorfinansiering, herunder virksomhedens daglige ledelse og øverste ledelse, har modtaget tilstrækkelig undervisning på området 
+
+Der er krav om, at virksomheden har et egentligt undervisningsprogram. 
+
+Virksomhedens procedurer og kontroller skal samtidig sikre, at undervisningen gennemføres i forhold til ansatte, der har med behandling af kundehold at gøre. Det er ikke tilstrækkeligt at udlevere og gennemgå virksomhedens skriftlige politikker og procedurer med de ansatte. 
+
+Det vil ligeledes heller ikke være tale om tilstrækkelig undervisning, hvis undervisningen alene gennemgår lovgivningens krav, men denne ikke er relateret til for eksempel virksomhedens forretningsmodel, herunder dens produktudbud, kundetyper m.v. 
+
+Virksomheden kan vælge, at de enkelte ansatte kun modtager undervisning inden for deres relevante arbejdsområde. 
+
+Undervisningen skal sikre, at de ansatte har et betryggende kendskab til de krav, der er på området for hvidvask og terrorfinansiering, samt hvilken betydning kravene har for den enkelte ansattes varetagelse af hendes eller hans arbejdsopgaver. 
+
+Den ansatte skal dybest set kunne varetage sin jobfunktion på fuld forsvarlig måde og sikre, at virksomheden overholder lovens krav. 
+
+Virksomheden skal sikre, at de ansatte deltager i undervisningen. 
+
+For særlige forretningsområder skal undervisningen være tilpasset de ansattes særlige funktioner, herunder fremhævelse af de indikatorer på hvidvask og terrorfinansiering, der kan tænkes at forekomme på disse områder. 
+
+Sådanne særlige områder er for eksempel værdipapirhandel, import-eksportfinansiering og grænseoverskridende korrespondentforbindelser. 
+
+Virksomhedens ansatte skal også modtage uddannelse i relevante bestemmelser om databeskyttelse for at sikre, at personoplysninger bliver behandlet i overensstemmelse med persondatalovgivningen. 
+
+Dette skal være med til at sikre, at personoplysninger indhentet efter reglerne i hvidvaskloven alene sker med henblik på at efterleve kravene i hvidvaskloven. 
+
+Kravet om tilstrækkelig undervisning indebærer, at virksomheden med passende intervaller skal efteruddanne sine ansatte og ledelsen. 
+
+Ved opdatering af virksomhedens procedurer skal der ske efteruddannelse af ansatte, hvor dette har betydning for de pågældende ansattes arbejdsfunktion.
+
+**Retsgrundlaget**
+
+**Henvisning til hvidvaskloven: § 8, stk. 6.**
+**Henvisning til 4. hvidvaskdirektiv: Art. 46, stk. 1.**
+
+**Om kravene til grundkursus for bestyrelsesmedlemmer henvises til:**
+
+**Bekendtgørelse nr. 1424 af 29. november 2016 om grundkursus for medlemmer af bestyrelsen i pengeinstitutter, realkreditinstitutter og forsikringsselskaber**
+

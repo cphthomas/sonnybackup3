@@ -1,0 +1,716 @@
+# Hvidvask 4 {-}
+
+### Risikovurdering – kundekendskabsprocedurer
+
+Virksomheden skal gennemføre kundekendskabsprocedurer i alle forretningsforbindelser. 
+
+Kravene i hvidvasklovens § 11, stk. 1 og 2, kan derfor aldrig undlades, heller ikke i tilfælde af begrænset risiko. 
+
+Det betyder, at der for enhver kunde skal indhentes identitetsoplysninger. Identitetsoplysningerne skal kontrolleres, kundens forretnings- og risikoprofil skal klarlægges og kundeforholdet skal overvåges. 
+
+Ved kunder, der er juridiske personer, skal der altid også indhentes identitetsoplysninger på reelle ejere. Se afsnit 2.3.2.3. om reelle ejere. 
+
+Virksomhedens kundekendskabsprocedurer kan gennemføres ud fra en risikovurdering af det konkrete kundeforhold. 
+
+Kundekendskabsproceduren og risikovurderingen fastlægger kundens risikoprofil på tidspunktet for indgåelsen af forretningsforbindelsen. Risikoprofilen kan ændres i løbet af kundeforholdet, og derfor er der. 
+
+krav til, at virksomheden gennemfører kundekendskabsprocedurer løbende med et vist interval i hele kundeforholdet, således at oplysningerne om kunden holdes ajour se afsnittet "om kundekendskabsprocedurer ved passende tidspunkter". 
+
+I forbindelse med indgåelsen af forretningsforbindelsen eller ved senere kundekendskabsprocedurer kan der være behov for, at virksomheden også undersøger kundens midlers oprindelse for at vurdere eventuelle risici forbundet med hvidvask eller finansiering af terrorisme. 
+
+Risikovurderingen omfatter overordnet en vurdering af: 
+
+- risikoen for hvidvask og/eller finansiering af terrorisme 
+- at kunden er den person, som kunden udgiver sig for at være. 
+
+Virksomheden bør tilrettelægge niveauet af sine kundekendskabsprocedurer ud fra den overordnede risikovurdering, som virksomheden har foretaget af sin forretningsmodel. 
+
+Se Finanstilsynets praksis vedrørende reglerne om risikovurdering og risikostyring på hvidvaskområdet. 
+
+Virksomheden kan også vurdere den enkelte forretningsforbindelse til en kunde ud fra de samme risikofaktorer. 
+
+Dog skal risikovurderingen af den enkelte kunde foretages konkret i forhold til kunden. 
+
+Risikovurderingen kan forholde sig til: 
+
+- Hvem er kunden? 
+- Hvilke produkter eller ydelser ønsker kunden? 
+- Er der med forretningsforbindelsen til kunden nogle relevante geografiske forhold, der skal tages i betragtning? 
+- Hvilke leveringskanaler er der til kunden? 
+
+De oplistede faktorer er ikke udtømmende, og der er ikke krav om, at virksomheden tager dem alle i betragtning. 
+
+Virksomheden skal således selv fastlægge de relevante risikofaktorer. 
+
+I risikovurderingen skal dog indgå forretningsforbindelsens: 
+
+- formål 
+- omfang 
+- regelmæssighed og 
+- varighed. 
+
+Disse fire faktorer indikerer ikke i sig selv begrænset eller høj risiko. F.eks. kan en kundes formål med forretningsforbindelsen konkret indikere en høj risiko. 
+
+På den anden side kan en forretningsforbindelse til en kunde f.eks. indikere en begrænset risiko, hvis den har regelmæssighed og er varig. 
+
+Det er en konkret vurdering, og virksomheden må forholde sig til hver faktor, og hvad de tilsammen indikerer for kundens risikoprofil. 
+
+Risikovurderingen skal inddrage de faktorer, som følger af hvidvasklovens bilag 2 og 3. 
+
+Bilagene opremser faktorer, der kan være tegn på henholdsvis begrænset og øget risiko.
+
+ I virksomhedens vurdering af ovenstående fire oplistede forhold kan virksomheden f.eks. vurdere omfanget af de aktiver, som kunden ønsker at indsætte, størrelsen af de transaktioner, som kunden ønsker at gennemføre eller kundens forventede varighed af forretningsforbindelsen med virksomheden.
+
+Virksomheden kan fastlægge en model for sine indledende kundekendskabsprocedurer og risikovurderinger, f.eks. at kunderne placeres i kategorier som begrænset, mellem eller høj risiko. 
+
+Dette er relevant for, at virksomheden kan vurdere, om der i forhold til den enkelte kunde skal foretages lempede eller skærpede kundekendskabsprocedurer og med hvilken frekvens den løbende ajourføring af kundekendskabsprocedurerne skal gennemføres. 
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 11, stk. 3**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 2**.
+
+
+### Skærpede kundekendskabsprocedurer
+
+Skærpede kundekendskabsprocedurer skal anvendes ud over de almindelige kundekendskabsprocedurer. 
+
+Det betyder, at de supplerer de almindelige procedurer i situationer, hvor forretningsforbindelsen er vurderet til at have en øget eller høj risiko for hvidvask og/eller finansiering af terrorisme. 
+
+Der er ikke en udtømmende liste over, hvilke situationer der medfører skærpede kundekendskabsprocedurer, eller hvad disse ultimativt skal indebære. 
+
+Det er virksomheden, der på baggrund af sin risikovurdering skal vurdere, hvad der i sådanne tilfælde kan betrygge virksomheden i sit kendskab til forretningsforbindelsen og i bekæmpelsen af den øgede risiko for hvidvask og/eller finansiering af terrorisme. 
+
+Der er dog nogle lovbestemte situationer, hvor virksomhederne altid skal gennemføre skærpede kundekendskabsprocedurer: 
+
+- hvis kunden har hjemsted i et land, der er opført på Europa-Kommissionens liste over lande, hvor der vurderes at være en øget risiko for hvidvask eller finansiering af terrorisme.
+
+- det kan dog undlades på baggrund af en risikovurdering for en filial eller et majoritetsejet datterselskab af en juridisk person, hvor den juridiske person er etableret i et EU- eller EØS-land og underlagt krav, der følger af Europa-Parlamentets og Rådets direktiv 2015/849/EU af 20. maj 2015 om forebyggende foranstaltninger mod anvendelse af det finansielle system til hvidvask af penge eller finansiering af terrorisme, og filialen eller det majoritetsejede datterselskab overholder koncernens politikker og procedurer, jf. § 9, stk. 2. 
+
+Hvis en virksomhed har kunder, der har hjemsted i et land, der er opført på Europa-Kommissionens liste over lande, hvor der vurderes at være en øget risiko for hvidvask eller finansiering af terrorisme, er det nødvendigt, at virksomheden sikrer, at virksomheden løbende har kendskab til Europa-Kommissionens liste. 
+
+Det betyder ikke, at virksomheden ikke bør indgå forretningsforbindelser med sådanne kunder, men det forpligter virksomheden til, at gennemføre skærpede kundekendskabsprocedurer i sådanne kundeforhold. Virksomhedens skærpede kundekendskabsprocedurer skal virksomheden selv tilrettelægge ud fra en risikovurdering. 
+
+Hvis det konkrete kundeforhold omfattes af undtagelsen, fordi det er en filial eller et majoritetsejet datterselskab af en juridisk person, der er etableret i et EU- eller EØS-land og underlagt krav, der følger 4. hvidvaskdirektiv, skal virksomheden f.eks. indhente koncernens politikker og procedurer og foretage stikprøver for at undersøge, om filialen eller datterselskab lever på til koncernens politikker og procedurer. 
+
+Derudover skal der altid gennemføres skærpede kundekendskabsprocedurer: 
+
+- hvis kunden er en politisk eksponeret person (PEP). 
+
+Her kræves bl.a. en godkendelse af forretningsforbindelsen af virksomhedens hvidvaskansvarlige ved indgåelse af forretningsforbindelsen med kunden, se Finanstilsynets vejledning til reglerne om politisk eksponerede personer. 
+
+- ved etablering af en grænseoverskridende korrespondentforbindelse med respondenter fra lande uden for Den Europæiske Union, som Unionen ikke har indgået aftale med på det finansielle område. 
+
+I disse situationer skal virksomheden følge de procedurer, der følger af hvidvasklovens § 18 og § 19. Se Finanstilsynets vejledning til reglerne om politisk eksponerede personer og afsnittet "om korrespondentforbindelser". 
+
+De foranstaltninger, der iværksættes ved øget eller høj risiko, kan bl.a. fastlægges ud fra, om der er en øget risiko for hvidvask og/eller for finansiering af terrorisme. 
+
+Behovet kan være forskelligt ud fra hvilken risiko, som virksomheden har identificeret i sin risikovurdering af forretningsforbindelsen. 
+
+Der er dog ikke krav om, at virksomheden skræddersyr de skærpede kundekendskabsprocedurer til hver forretningsforbindelse. 
+
+Målet er, at virksomheden i henhold til sine politikker og procedurer varetager og forebygger de øgede risici, som forretningsforbindelsen konkret indebærer. 
+
+De skærpede kundekendskabsprocedurer kan f.eks. være, at virksomheden: 
+
+- Indhenter oplysninger om kundens adresse eller fødested. 
+- Indhenter oplysninger fra andre kilder end fra kunden selv. 
+- Indhenter yderligere oplysninger om kunden, f.eks. om kundens formål og tilsigtede beskaffenhed med forretningsforbindelsen. 
+- Indhenter oplysninger om kundens formue og midlers oprindelse. 
+- Kontrollerer kundens oplysninger ved flere uafhængige og pålidelige kilder. 
+- Gennemfører kundekendskabsprocedurer oftere i løbet af kundeforholdet. 
+- Løbende gennemgår kundens transaktioner. 
+- Indhenter oplysninger om kundens forretningsaktiviteter. 
+- Indhenter yderligere oplysninger om kundens reelle ejer/ejere. 
+- Undersøger kundens tidligere forretningsaktiviteter. 
+- Undersøger kunden eller kundens reelle ejeres relationer ved f.eks. at foretage internetsøgninger. 
+- Sender en kontrakt eller et andet dokument til kundens adresse, med anmodning om, at kunden returnerer det i underskrevet stand (f.eks. relevant ved forretningsforbindelser, som ikke er indgået ved fysisk kontakt). 
+- indhente den øverste ledelses godkendelse ved etablering eller fortsættelse af forretningsforbindelsen til kunden. 
+
+Virksomheden skal allerede fra indgåelsen af forretningsforbindelsen med kunden vurdere, om der er tale om en høj risiko, men det kan også være nødvendigt i løbet af kundeforholdet som led i virksomhedens overvågning af kunden. 
+
+Dette kan f.eks. være:
+
+- Hvis kunden ændrer transaktionsmønster, f.eks. ved at foretage langt større transaktioner end sædvanligt eller til geografiske områder, som kunden ikke tidligere har været forbundet med. 
+- Hvis kunden har et usædvanligt mønster eller kundens brug af transaktioner, produkter og/eller tjenesteydelser er væsentlig mere komplekse end andre lignende kunders ”normale” adfærd. 
+- Hvis der opstår tvivl om, hvorvidt kundens angivne oplysninger er korrekte, eller hvis virksomheden får kendskab til et påviseligt formål, som ikke er overensstemmende med kundens oplysninger. 
+
+Hvis virksomheden i ovenstående eller andre tilfælde vurderer, at kunden har høj risiko skal virksomheden iværksætte skærpede kundekendskabsprocedurer til trods for at kunden ikke tidligere har været i kategori for høj risiko.
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 17**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 18**
+
+
+### Lempede kundekendskabsprocedurer 
+
+Virksomheden kan ud fra en risikovurdering anvende lempede kundekendskabsprocedurer i forhold til de forretningsforbindelser, der vurderes at have en begrænset risiko for hvidvask og finansiering af terrorisme. 
+
+Lempede kundekendskabsprocedurer er en mulighed, som virksomheden kan benytte efter en konkret vurdering. 
+
+Det er ikke et krav til virksomheden, som eksempelvis kravet til, at der i tilfælde med høj risiko skal gennemføres skærpede kundekendskabsprocedurer. 
+
+De lempede procedurer er ikke en undtagelse til kravene til kundekendskabsprocedurer i hvidvaskloven. 
+
+Det er derfor alene en mulighed for at justere den videre kundekendskabsprocedure og overvågning af kunden. 
+
+Virksomheden kan fastlægge, om kunden eller transaktionen indebærer begrænset risiko. 
+
+Det betyder, at virksomheden først skal vurdere konkret, om der i relation til kunden eller transaktionen er risikofaktorer, der kan indikere, at der ikke er begrænset risiko, før virksomheden må gennemføre de lempede kundekendskabsprocedurer. 
+
+Vurderingen skal være en objektiv vurdering af kundens omstændigheder, herunder bl.a.:
+
+- produktet eller ydelsen, som kunden ønsker 
+
+- formålet, omfanget, regelmæssigheden og varigheden af forretningsforbindelsen med kunden. 
+
+I vurderingen skal virksomheden tage de faktorer, der følger af hvidvasklovens bilag 2, i betragtning. 
+
+Eksempler på lempede kundekendskabsprocedurer kan være:
+
+- at virksomheden indhenter begrænsede identitetsoplysninger om kunden, dog skal det sikres, at kundens identitet kontrolleres 
+- med begrænsede identitetsoplysninger forstås, at lovens minimumskrav, som er indhentelse af navn og cpr-nr. eller lignende, opfyldes, men at der f.eks. ikke indhentes yderligere identitetsoplysninger 
+- at virksomheden alene kontrollerer kundens identitetsoplysninger på baggrund af NemID og opslag i CPR dvs. en kombination af disse to kilder 
+- at virksomheden gennemfører kundekendskabsprocedurer med henblik på at opdatere kundens identitetsoplysninger sjældnere end for andre kunder, f.eks. sjældnere end for kunder med mellem og høj risiko 
+- at virksomheden ikke indhenter oplysninger om kundens formål med forretningsforbindelsen, fordi det er givet i selve produkttypen, og fordi produkttypen ikke har høj risiko. 
+- at virksomheden overvåger kunden i et mere begrænset omfang, end virksomheden f.eks. overvåger kunden med en højere risikoprofil. 
+
+Overvågning af forretningsforbindelsen med kunden kan dog ikke undlades. 
+
+**Undtagelse for udstedere af elektroniske penge**
+
+Udsteder af elektroniske penge kan undtagelsesvist været undtaget for kravene til kundekendskabsprocedurer i hvidvasklovens §§ 11, 14 og 18. 
+
+Undtagelsen er betinget af fem betingelser, der alle skal være opfyldt, for at undtagelsen er gældende: 
+
+1) Betalingsinstrumentet er ikke genopfyldeligt eller har en maksimal månedlig betalingstransaktionsgrænse på 250 euro, som udelukkende kan anvendes i Danmark. 
+2) Det maksimale elektronisk lagrede beløb må ikke overstige 250 euro. 
+3) Betalingsinstrumentet kan udelukkende anvendes til køb af varer eller tjenesteydelser. 
+4) Betalingsinstrumentet kan ikke finansieres med anonyme elektroniske penge. 
+5) Udstederen skal foretage tilstrækkelig overvågning af transaktioner eller forretningsforbindelser til at kunne opdage usædvanlige eller mistænkelige transaktioner. 
+
+Grænsen i nr. 2 forhøjes til 500 euro for betalingsinstrumenter, som udelukkende kan bruges i Danmark.
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvaskloven: § 21**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 15 og 16**. 
+**Henvisning til: Bekendtgørelse nr. 1359 om lempede krav til kundekendskabsproceduren efter lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven)**.
+
+
+### Tidspunkt for gennemførelse af kundekendskabsprocedurer 
+
+Virksomheden skal altid identificere og kontrollere kunden og eventuelle reelle ejere inden, at virksomheden etablerer forretningsforbindelsen til kunden eller gennemfører en enkeltstående transaktion. 
+
+Virksomheden kan dog godt etablere forretningsforbindelsen til kunden eller gennemføre transaktionen i forbindelse med, at virksomheden opfylder kravene om indhentelse af oplysninger om kundens formål og tilsigtede beskaffenhed med forretningsforbindelse. 
+
+Dette forudsætter dog, at de indledende kundekendskabsprocedurer, der skal sikre kontrol af identiteten af kunden eller transaktionen, ikke har vist at kunden eller transaktionen har øget risiko. 
+
+Er dette tilfældet, skal virksomheden gennemfører skærpede kundekendskabsprocedurer inden forretningsforbindelsen etableres eller transaktionen gennemføres. 
+
+Kravene til de indledende kundekendskabsprocedurer skal virksomheden fastsætte i forhold til den risiko for hvidvask og finansiering af terrorisme, der er forbundet med den enkelte forretningsforbindelse eller transaktion.
+
+Hvis forretningsforbindelsen eller transaktionen har øget risiko, skal virksomheden gennemføre yderligere foranstaltningerne. 
+
+Virksomheden skal følge de krav, som hvidvaskloven stiller til skærpede kundekendskabsprocedurer, f.eks. ved en forretningsforbindelse til en PEP. 
+
+Er forretningsforbindelsen ikke omfattet af hvidvasklovens skærpede kundekendskabskrav i §§ 18 eller 19, skal virksomheden gennemføre skærpede kundekendskabsprocedurer, som virksomheden vurderer er nødvendige for at imødegå den øgede risiko for hvidvask og finansiering af terrorisme. 
+
+Kundekendskabsprocedurer skal gennemføres under hele forretningsforbindelsen, dvs. i hele kundeforholdet fra etableringen til den endelige afvikling af forretningsforbindelsen. 
+
+Kundekendskabsprocedurer kan derfor aldrig afsluttes før ved afvikling af forretningsforbindelsen. 
+
+Virksomheden har mulighed for ved begrænset risiko, at gennemføre dele af kundekendskabsprocedurerne, herunder indhentelse af oplysninger om formål og tilsigtet beskaffenhed, efter etableringen er sket. 
+
+Virksomhedens kundekendskabsprocedurer skal altid gennemføres på baggrund af en risikovurdering. 
+
+
+#### Kontrol af identitetsoplysninger under etablering af forretningsforbindelsen 
+
+Kravet til, at virksomheden altid foretager identifikation og kontrol af en kunde, inden forretningsforbindelsen etableres eller inden en enkeltstående transaktion gennemføres, kan undtagelsesvist fraviges. 
+
+Kontrollen af identitetsoplysninger kan gennemføres under etableringen af forretningsforbindelsen, hvis: 
+
+- det er nødvendigt for ikke at afbryde den normale forretningsgang og 
+- der er begrænset risiko for hvidvask eller finansiering af terrorisme. 
+
+De to betingelser skal begge være opfyldt, før undtagelsesmuligheden er gældende, og kontrollen af identitetsoplysninger skal i disse tilfælde gennemføres hurtigst muligt. 
+
+Hvis det viser sig, at det ikke er muligt at gennemføre kontrollen, kan der være pligt for virksomheden til at afbryde eller afvikle forretningsforbindelsen. 
+
+Undtagelsen giver alene adgang til, at de indledende kundekendskabsprocedurer kan foretages senere end hovedreglen, men der er ikke mulighed for, at de kan undlades. 
+
+Det er dermed kun etableringen af forretningsforbindelsen der undtagelsesvist af praktiske og nødvendige årssager kan foregå før identitetsoplysningerne kontrolleres. 
+
+Ad: Det er nødvendigt for ikke at afbryde den normale forretningsgang 
+Med ”den normale forretningsgang” skal forstås den procedure, der i normale tilfælde foregår, når virksomheden etablerer en ny forretningsforbindelse med en kunde. 
+
+Det er vigtigt at bemærke, at det kræver en vurdering af, at det i den konkrete situation er nødvendigt og at det derfor vurderes, at det ikke kan vente. 
+
+Undtagelsen giver virksomheden mulighed for f.eks. at påbegynde etablering af en forretningsforbindelse ved f.eks. at oprette en konto eller indhente oplysninger til at påbegynde en rådgivningsopgave. 
+
+Virksomheden kan dog ikke gå videre og f.eks. foretage en transaktion eller udføre rådgivningsopgaven før forretningsforbindelsens identitetsoplysninger indhentet og kontrolleret. 
+
+Ad: Der ikke er risiko for hvidvask eller finansiering af terrorisme 
+Denne betingelse skal ses i sammenhæng med den risikovurdering, som virksomheden foretager i forbindelse med en ny forretningsforbindelse og de indledende kundekendskabsprocedurer. 
+
+Det er en ufravigelig betingelse, at forretningsforbindelsen er begrænset risiko, for at en eventuel etablering af en forretningsforbindelse kan påbegyndes uden identitetsoplysningerne er kontrolleret. 
+
+#### Transaktioner med værdipapirer for en kunde 
+
+Der er en særlig undtagelse til kravet om, at identitetsoplysninger indhentes og kontrolleres, inden en forretningsforbindelse etableres, når det vedrører oprettelse af konto, depot eller lignende, der tillader transaktioner i værdipapirer for en kunde. 
+
+Hvis virksomheden har indført passende sikkerhedsforanstaltninger, der sikrer, at transaktionerne ikke gennemføres, før identitetsoplysningerne er indhentet og kontrolleret, kan virksomheden f.eks. oprette kontoen til transaktioner i værdipapirer. 
+
+Det er en betingelse for undtagelsen, at der ikke gennemføres transaktioner, før forretningsforbindelsen er identificeret og kontrolleret, og derfor skal der være foranstaltninger, der sikrer dette. 
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvasklovens: § 14, stk. 1-4.** 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 10, stk. 1 og 14, stk. 4.**
+
+
+### Utilstrækkelige oplysninger eller oplysninger, der ikke kan ajourføres
+
+Hvis virksomheden bliver bekendt med, at de indhentede oplysninger er utilstrækkelige og ikke kan ajourføres, skal virksomheden træffe passende foranstaltninger for at imødegå risikoen for hvidvask og finansiering af terrorisme, herunder skal virksomheden overveje, om forretningsforbindelsen skal afvikles. 
+
+Dette kan f.eks. være tilfældet, hvis virksomheden i sine løbende kundekendskabsprocedurer bliver bekendt med, at de indhentede oplysninger om en kunde ikke er tilstrækkelige, eller hvis virksomheden som led i sine kundekendskabsprocedurer vil ajourføre de indhentede oplysninger, og kunden ikke ønsker at udlevere dem, eller hvis virksomheden ikke kan få kontakt til kunden. 
+
+Med passende foranstaltninger menes, at virksomheden konkret skal vurdere hvilke foranstaltninger, der skal iværksættes. 
+
+Virksomheden bør altid forsøge at gennemfører kundekendskabsprocedurerne på en anden måde, hvis der ikke er en konkret risiko for hvidvask eller finansiering af terrorisme. 
+
+Passende foranstaltningerne kan f.eks. være, at virksomheden:
+
+- nægter at tilbyde kunden nye produkter 
+- intensiverer overvågningen af kunden 
+- sætter beløbsgrænser på kundens transaktioner 
+- inddrager kundens engagement eller dele heraf, f.eks. nogle af kundens produkter. 
+
+De foranstaltninger, som virksomheden iværksætter, skal altid være passende i forhold til den konkrete risiko der er for hvidvask og finansiering af terrorisme i forhold til kundeforholdet. 
+
+Hvidvaskloven regulerer ikke i øvrigt regler for afvikling af et kundeforhold eller afslag af nye kundeforhold. 
+
+I tilfælde hvor virksomheden vurderer, at kundekendskabsproceduren ikke konkret kan gennemføres på en anden måde, og at risikoen for hvidvask og finansiering af terrorisme er høj, kan virksomheden enten afbryde eller afvikle forretningsforbindelsen. 
+
+Se afsnittet nedenfor "om virksomheders pligt til at afbryde eller afvikle et kundeforhold". 
+
+---
+
+**Video: Digital AML - udførlig gennemgang af hvidvasklovens krav**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/HIyrfFbI-7w
+" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+
+#### Virksomhedens pligt til at afbryde eller afvikle et kundeforhold 
+
+Virksomheden har kun hjemmel på hvidvaskområdet til at afbryde eller afvikle en forretningsforbindelse, hvis virksomheden har udtømt alle muligheder for at gennemføre kundekendskabsprocedurer, og virksomheden på denne baggrund kan konkludere, at det ikke er muligt at gennemføre kundekendskabsprocedurerne i forhold til den konkrete forretningsforbindelse. 
+
+Dette betyder, at virksomheden først skal forsøge at gennemføre kundekendskabsprocedurerne på en anden måde end det, der er virksomhedens normale procedure. 
+
+Det er f.eks. ikke tilstrækkeligt, at kunden ikke ønsker at udlevere oplysningerne eller at kunden ikke er i besiddelse af den type identifikationsoplysninger, som virksomheden indsamler normalt i henhold til sine interne procedurer. 
+
+I sådanne tilfælde skal virksomheden vurdere, om årssagen til at kunden nægter at udleverer oplysningerne medfører en risiko for hvidvask og finansiering for terrorisme. 
+
+Hvis dette ikke er tilfældet, skal virksomheden forsøge at indhente oplysninger på anden vis. Det kunne eksempelvis være en situation, hvor en kunde ikke har et offentligt udstedt legitimationsdokument. I dette tilfælde, kan virksomheden i stedet bl.a. indhente kundens dåbsattest. 
+
+Hvidvasklovens pligt til at afbryde eller afvikle en forretningsforbindelse er derfor betinget af, at kundekendskabsprocedurerne ikke kan gennemføres og at der vurderes at være en risiko for hvidvask og finansiering af terrorisme. 
+
+Anvendelsesområdet for bestemmelsen er meget begrænset. Virksomheden vil i langt de fleste af sådanne tilfælde også skulle foretage indberetning til SØIK. 
+
+Hvis virksomheden vurderer, at en forretningsforbindelse skal afbrydes eller afvikles, må virksomheden ikke foretage yderligere transaktioner eller aktiviteter for kunden. 
+
+Hvis der er tale om faste lån, skal dette afvikles i forhold til den afviklingsprofil, der er er aftalt med kunden. Kreditrammen skal inddrages, eventuelt også i forhold til afviklingsaftalen. 
+
+**Særligt i forhold til advokaters klientforhold** 
+
+Ovenstående afsnit om muligheden for at afbryde eller afvikle et kundeforhold gælder ikke for advokater, når de fastslår en klients retsstilling eller forsvarer eller repræsenterer en klient under eller i forbindelse med en retssag, herunder rådgivning om indledning eller undgåelse af et sagsanlæg. 
+
+Undtagelsen gælder ikke i disse tilfælde, fordi klientens ret til advokatbistand og retssikkerhed vejer tungere end hensynet til et tilstrækkeligt kundekendskab. Det er dog ikke formålet med denne bestemmelse at undtage advokater fra at gennemføre kundekendskabsprocedurer. 
+
+Advokaten har samme pligt til at forsøge at gennemføre kundekendskabsprocedurerne på anden vis og derved også udtømme alle muligheder for dette. 
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvasklovens: § 14, stk. 5 og 15**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 14, stk. 4.** 
+
+---
+
+<img src="img/Hvidvask 3.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+---
+
+
+### Behandling af personoplysninger 
+
+Behandling af personoplysninger, der er indhentet i henhold til at opfylde kravene i hvidvaskloven, må kun behandles med henblik på at forebygge hvidvask og finansiering af terrorisme. 
+
+Personoplysninger defineres i overensstemmelse med persondatalovgivningen. 
+
+Inden virksomheden etablerer en forretningsforbindelse eller gennemfører en enkeltstående transaktion, skal virksomheden informere kunden, hvis denne er en fysisk person, om de regler der gælder for behandling af personoplysninger med henblik på forebyggelse af hvidvask og finansiering af terrorisme. 
+
+Informationskravet gælder ikke, når kunden er en juridisk person. 
+
+Alle personoplysninger, som virksomheden indhenter, dvs. f.eks. om reelle ejere, må kun behandles i overensstemmelse med hvidvaskloven. 
+
+Virksomheden skal dog være opmærksom på eventuelle oplysningsforpligtelser i persondatalovgivningen. Hvidvasklovens krav i § 16 er derfor ikke en fravigelse til persondataloven, men et supplement til denne. 
+
+**Retsgrundlaget:**
+
+**Henvisning til hvidvasklovens: § 16**. 
+**Henvisning til 4. hvidvaskdirektiv: Artikel 43, stk. 3.**
+
+
+
+
+### Beskyttelse af medarbejderen
+
+Hvidvaskdirektivet indeholder i art. 61 en bestemmelse om beskyttelse af medarbejdere hos de personer og virksomheder, der er omfattet af direktivet, mod trusler og repressalier, når de indberetter mistanke om hvidvask og terrorfinansiering. 
+
+Dette forhold er reguleret ved lovens §§ 35-36, og Politimesterforeningen udsendte i forbindelse med den tidligere lov en beskrivelse af, hvordan sagerne skal behandles, optrykt i »Aktuel Orientering« 6/2000 af 4. juli 2000, der sendes til politikredsene. Se betænkning nr. 1447/2004, s. 70.
+
+Det fremgår af »Aktuel Orientering«, at politiet skal tage særligt hensyn til de finansielle virksomheder og deres medarbejdere, når de behandler underretninger efter hvidvaskloven. 
+
+Baggrunden herfor er, at medarbejderne er forpligtede til at foretage indberetning. 
+
+Den særlige hensyntagen sker for det første ved, at den kunde, der er indgivet underretning om, i videst muligt omfang ikke orienteres om underretningen. 
+
+Hvis kunden sigtes i sagen, er underretningen dog en del af straffesagens akter, som den sigtede har adgang til.
+
+Udgangspunktet efter retsplejeloven er, at der er vidnepligt. 
+
+Imidlertid fremgår det af »Aktuel Orientering«, at den medarbejder, der har fået mistanke, kun indkaldes som vidne i en straffesag mod kunden, såfremt den overordnede medarbejder i den finansielle virksomhed ikke kan besvare spørgsmålene i sagen.
+
+
+
+### Hvad er Hvidvasksekretariatet?
+
+Hvidvasksekretariatet hører under Statsadvokaten for Særlig Økonomisk og International Kriminalitet (SØIK) og er oprettet i 1993. 
+
+Sekretariatet er den danske FIU (Financial Intelligence Unit), dvs. den danske finansielle efterretningsenhed.
+
+Hvidvasksekretariatet er oprettet med henblik på at modtage, analysere og videreformidle underretninger om mulig hvidvask af udbytte fra strafbare forhold eller finansiering af terrorisme fra de virksomheder og personer, som er omfattet af hvidvaskloven. 
+
+Sekretariatet modtager også underretninger fra offentlige myndigheder.
+
+[På Finanstilsynets hjemmeside her findes flere informationer om hvidvask](https://www.finanstilsynet.dk/Tilsyn/Information-om-udvalgte-tilsynsomraader/Hvidvask)
+
+
+
+
+
+<img src="img/Hvidvask1.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+
+
+
+## Hvidvaskreglernes konkrete anvendelse på f.eks. ejendomsmæglervirksomheden
+
+Hvidvaskningsloven har en direkte betydning for ejendomsmæglere og ejendomsmæglervirksomheder, jf. hvidvasklovens § 1, stk. 1, nr. 16.
+
+Den vil f.eks. også berører *ejendomsadministratorer*, men også andre inden for ejendomsbranchen – professionelle investorer, såvel som private købere og sælgere – vil blive berørt af hvidvasklovens bestemmelser.
+
+Det samme gælder skatterådgivere, eksterne bogholdere og ejendomsadministratorer, i det omfang de erhvervsmæssigt udøver samme aktivitet som en ejendomsmægler, herunder formidling af køb og salg af ejendomme.
+
+Samt ejendomsformidling, der udøves af en advokat, men ikke i dennes egenskab af advokat eller som et led i dennes advokatvirksomhed eller advokatselskab, jf. hvidvaskningslovens § 1, stk. 1, nr. 14 og 16. 
+
+Virksomheder og personer, der erhvervsmæssigt formidler lejemål, er ikke omfattet af hvidvasklovens § 1, stk. 1, nr. 17, uanset at en ejendomsmæglers udlejning er omfattet af hvidvasklovens § 1, stk. 1, nr. 16.
+
+Efter hvidvasklovens § 7 skal ejendomsmægleren og ejendomsmæglervirksomheden identificere og vurderer risikoen for, at den kan blive misbrugt til hvidvask eller finansiering af terrorisme
+
+Risikovurderingen skal efter hvidvaskloven § 8 bruges ved udarbejdelse af ejendomsmæglerens og ejendomsmæglervirksomhedens “Politikker, kontroller og procedure”
+
+Risikovurderingen skal “dokumenteres”. Det betyder også, at risikovurderingen ikke blot skal bygge på ejendomsmæglerens og ejendomsmæglervirksomhedens egen opfattelse, men også skal være underbygget med eksterne kilder, som fx SØIK's risikovurdering eller lignende materiale fra EU-Kommissionen.
+
+Kravene efter § 7 skal tages meget bogstavelige. Fx fremgår det af lovbemærkningerne, at hvis ikke alle ydelser/produkter risikovurderes, men kun nogle af dem, så står virksomheden til en bøde.
+
+”Politikker, procedurer og kontroller” skal som hidtil være skriftlige, og kan opfyldes ved at de foreligger i papirform, men kan også lagres digitalt, være i form af videoer eller lignende.
+
+Det understreges i lovbemærkningerne, at ”politikker, procedurer og kontrollerer” skal være udarbejdet til brug for den enkelte virksomhed og ikke have generel karakter og fx udarbejdet af en brancheorganisation som DE.
+
+Som hidtil skal ejendomsmæglervirksomhedens krav til legitimationsprocedure fremgå af de “skriftlige politikker, procedure og kontroller”. 
+
+De skal udarbejdes med udgangspunkt i ejendomsmæglervirksomhedens risikovurdering i forhold til kunder og produkter m.v.
+
+Fremover betegnes legitimationsprocedurer som “kundekendskabsprocedurer” for ifølge lovbemærkningerne at understrege at legitimationsproceduren ikke alene er en procedure, som skal foretages ved ejendomsmæglerens og ejendomsmæglervirksomhedens etableringen af nye kundeforhold, men er en forpligtelse i hele kundeforholdet ud fra en risikovurdering.
+
+Hvidvaskloven indeholder en række ændringer af kundekendskabsproceduren, som gennemgås senere. 
+
+Desuden gennemgås senere kundekendskabsprocedurerne for politiske eksponerede personer
+
+I den tidligere gældende hvidvasklov skulle kundens navn, adresse og cpr/cvr-nr. indhentes. Fremover skal postadresse ikke indhentes med den begrundelse at et stigende antal kundeforhold i et digitaliseret samfund etableres uden kunden er fysisk fremmødt og at virksomheden ikke på samme måde som tidligere har brug for kundens postadresse. 
+
+2. Legitimering opfattes ofte som et krav om, at en kunde skal fremvise identitets- eller legitimationskort, som fx pas, kørekort og sygesikringsbevis. 
+
+Det præciseres nu, at kontrollen af kundens identitetsoplysninger ikke behøver at være i form af dokumenter som identitets- eller legitimationskort, men også i form af opslag i fx cpr. eller cvr. registret. 
+
+Ved kontrol af kunders legitimation var det tidligere tilstrækkeligt at notere pas nr. eller cpr. nr. fra forevist legitimation. 
+
+Nu er det et krav, at der opbevares kopi af legitimationsdokumenter.
+
+Efter den nye hvidvasklov er det fortsat ikke et krav om, at sælgeren eller køberen skal vise billedlegitimation. 
+
+Billedlegitimation vil dog stadig være et øget bevis for kundens identitet, hvis kundeforholdet etableres ved at kunden er fysisk til stede. 
+
+Det kommende register over reelle ejere, vil kunne anvendes i forbindelse med legitimation
+
+Reglerne om legitimation af politisk eksponerede personer (PEP) er i princippet de samme som før, men med den væsentlige ændring, at reglerne nu ikke alene gælder for personer bosiddende i udlandet, men også i Danmark.
+
+Politisk eksponerede personer (PEP’er) er personer, der bestrider et særligt offentligt tillidshverv og som følge af dette kan være modtagelige for bestikkelse og anden korruption. Det er i samfundets interesse at forebygge, at dette sker, og skulle det ske, er det i samfundets interesse, at det opdages i tide og herefter retsforfølges.
+
+Der stilles fortsat krav om at skal have tilstrækkelige procedurer til at afgøre, om kunden er en politisk eksponeret person, en nærtstående eller en nær samarbejdspartner til en politisk eksponeret person
+
+
+Den enkelte ejendomsmægler og ejendomsmæglervirksomhed skal foretage en analyse af, hvor stor risikoen er, for at de kan blive misbrugt til hvidvask af en kunde; af køber som af sælger. 
+
+Finanstilsynet har offentligjort en liste over de danske politisk udsatte personer, men ikke deres pårørende eller samarbejdspartnere:
+
+https://www.finanstilsynet.dk/Tal-og-Fakta/PEP-liste
+
+
+Erhvervsministeriet har nævnt som en mulighed at abonnere på en service fra en informationsudbyder, der har specialiseret sig i at udarbejde og ajourføre lister over politisk eksponerede personer.
+
+Det understreges dog samtidig, at det fortsat er ejendomsmæglervirksomhedens ansvar om brugen af et sådant register er tilstrækkeligt til at fastslå om kunden eventuel er en politisk eksponeret person, eller om der skal foretages yderligere handlinger.
+
+Som det er tilfælde andre steder i hvidvaskloven, så gælder også her en risikobaseret tilgang. 
+
+For mindre ejendomsmæglervirksomheder med et begrænset antal sælgere, vil det efter lovbemærkningerne kunne være tilstrækkelig at få den enkelte kunde til at oplyse, om denne er en politisk eksponeret person, og/eller rutinemæssigt at foretage søgninger på sælgernes navne på internettet. 
+
+Som tidligere nævnt så beror det dog på en risikovurdering.
+
+
+## ”Kundeforholdet” hos ejendomsmægleren forholdet til hvidvaskningsloven
+
+Finanstilsynets vejledning 2013 til hvidvaskloven:
+
+I en sædvanlig ejendomshandel, hvor en ejendomsmægler (sælgermægler) får til opgave at sælge en fast ejendom, skal ejendomsmægleren betragte både køber og sælger som kunder. 
+
+Ejendomsmæglere skal ikke i henhold til hvidvaskloven registreres i et særligt register. 
+
+Ejendomsmæglere er i henhold til lov om omsætning med fast ejendom særskilt registreret i Erhvervsstyrelsens ejendomsmæglerregister.
+
+Ejeren af en ejendom er ikke kunde hos ejendomsmægleren, når der foretages vederlagsfri værdiansættelse af en ejendom uden efterfølgende indgåelse af aftale om salg af ejendommen. 
+
+Endvidere vil personer, der optages i et køberkartotek, eller som udviser interesse for bestemte udbudte ejendomme, ikke – på dette tidspunkt – blive omfattet af begrebet kunde i forhold til hvidvaskloven. 
+
+I de tilfælde, hvor ejendomsmægleren har indgået en salgsaftale, skal en mulig køber først betragtes som ”kunde” i forhold til hvidvaskloven fra det tidspunkt, hvor sælger accepterer købers tilbud. 
+
+Det vil i praksis sige fra det tidspunkt, hvor sælger underskriver købsaftalen. 
+
+I de tilfælde, hvor køber forud for købsaftalens underskrift repræsenteres af en anden ejendomsmægler eller advokat, bliver køber ikke kunde hos sælgermægler. 
+
+Køber er i disse situationer alene i henhold til hvidvaskloven kunde hos advokaten eller egen mægler.
+
+Er der tale om situationer, hvor en køber henvender sig til en mægler (købermægler) med henblik på, at denne skal finde en ejendom til køberen, er køberen kunde hos købermægleren fra det tidspunkt, hvor købermægler og den potentielle køber indgår aftale om opdraget. 
+
+Finder købermægler en ejendom, som køber ønsker at erhverve, og repræsenteres sælger ikke af advokat eller mægler, bliver sælger tillige købermæglers ”kunde” i henhold til hvidvaskloven fra det tidspunkt, hvor købsaftalen underskives af den sidste underskriver. 
+
+Har sælger selv engageret en advokat eller sælgermægler til at repræsentere sig over for købermægler/køber, bliver sælger ikke kunde hos køber-mægler. 
+
+Hvis købermæglerens aftale med køber alene går ud på, at købermægler skal repræsentere køber over for sælger/sælgersmægler og evt. skrive skøde m.v., er kun køber kunde hos købermægler.
+
+I sager, hvor en ejendomsmægler får til opgave at formidle udlejning af lejemål, skal ejendomsmægleren betragte både udlejer og lejer som kunde i forhold til hvidvaskloven.
+ 
+Personer, som udviser interesse for et lejemål, er ikke ”kunder” hos ejendomsmægleren i forhold til hvidvaskloven, før en lejeaftale underskrives. 
+
+Efter den tidligere hvidvasklov var en række juridiske personer ikke reelle ejere. Det gjaldt fx ejerforeninger og andelsboligforeninger. 
+
+I andre situationer kan vise sig at være umuligt at få fastslået hvem som er den reelle ejer.
+
+Efter de nye regler i hvidvaskningsloven vil den daglige ledelse i de situationer fremover skulle betragtes som den reelle ejer. 
+
+Det betyder, at alle juridiske personer fremover vil have en eller flere reelle ejere. 
+
+Dette gælder dog fortsat ikke børsnoterede virksomheder.
+
+
+
+## Risikovurdering af ejendomsmæglerens kunder
+
+En ejendomsmæglervirksomhed skal indledningsvis foretage en risikovurdering af deres forretningsmodel, som skal afspejles i ejendomsmæglervirksomhedens skriftlige politikker, procedurer og kontroller, og i forhold til kundekendskabsprocedure bruge den til at vurdere niveauet for kundekendskabsproceduren i det enkelte sælgerforhold.
+
+Efter hvidvaskloven kan kundegrupper på forhånd inddeles i forskellige profiler – begrænset, almindelig og øget risiko for hvidvask – på baggrund af en vurdering af risikoen for hvidvask.
+
+Profilerne kan bruges som udgangspunkt for risikovurdering af en konkret sælger.
+
+Det er dog fortsat en konkret vurdering, hvor meget dokumentation, data eller oplysninger, der skal foreligge. 
+
+Der må i det enkelte sælger og køberforhold ikke være tvivl om, at sælgeren af ejendommen er den person, som han eller hun udgiver sig for at være. 
+
+Det samme gælder ved købsformidling. 
+
+Desuden kan en risikovurdering af sælgeren kan aldrig føre til, at der ikke foretages nogen form for legitimation af sælgeren af ejendommen.
+
+Hvis en sælger- eller køberforholdet vurderes til at have øget risiko for hvidvask, kan det være relevant også at hente oplysninger om adresse, fødested m.v.
+
+Her er det vigtigt at huske på, at adresse oplysning ikke mere er obligatorisk at indhente, men hvis den alligevel indhentes, så kommer den til at fungere, som yderligere oplysning ud over de obligatoriske.
+
+Normalt vil man som ejendomsmægler have brug for at kende adressen på sælgeren og eller køberen, og dermed følger der “automatisk” en yderligere oplysning med ud over de obligatoriske og som styrker legitimation af sælgeren og køberen.
+
+Det kræver selvfølgelig, at der også fremskaffes legitimation for adressen, men det vil tit og ofte alligevel ske i forbindelse med at fremskaffe legitimation for navn og cpr. nr.– fx hvis kunden forviser sygesikringsbevis, virksomheden foretager opslag i cpr. registeret/ cvr. registret, årsopgørelser m.v. hvor adresse også fremgår.
+
+
+## Beskyttelse af persondata
+
+Det fremgår af hvidvaskloven, at sælgeren og køberen fremover skal informeres om de regler, der gælder for behandling af personoplysninger. 
+
+Dette krav gælder kun ved etablering af nye kundeforhold efter lovens ikrafttræden og ikke kundeforhold der allerede er etableret. 
+
+Oplysningerne skal alene gives til fysiske personer.
+
+Det fremgår ikke detaljeret af hvidvaskloven, hvad det er for regler, der skal oplyses om, men det må formentligt dreje sig om:
+
+
+1. Der indhentes oplysninger om identitets- og kontroloplysninger samt kopi af foreviste legitimationsdokumenter ved etablering af kundeforholdet.
+
+2. Der indhentes dokumentation for og registreringer af transaktioner, der gennemføres som led i en forretningsforbindelse, eller en enkeltstående transaktion.
+
+3. I tilfælde af mistanke om at sælgeren eller køberen begår hvidvask, vil der blive indhentet dokumenter og registreringer vedrørende undersøgelser. Punkt 3. vil nok kunne give anledning til spørgsmål fra sælgeren og køberen. Det er dog ikke oplysninger, som kunden har ret til indsigt i .
+
+4. De indhentede oplysninger om sælgeren eller køberen vil alene blive brugt til at opfylde ejendomsmæglerens og ejendomsmæglervirksomhedens forpligtelser efter hvidvaskloven og ikke til f.eks. markedsføringsformål.
+
+5. Oplysningerne kan blive videregivet til SØIK i tilfælde af mistanke om at sælgeren eller køberen begår hvidvask.
+
+6. Sælgeren og køberen har ret til indsigt i de registrerede oplysninger.
+7. Oplysningerne opbevares i mindst 5 år.
+
+8. Sælgeren/køberen har ret til at få korrigeret de registrerede oplysninger, hvis de ikke er korrekte
+
+Informationen om persondatareglerne skal give til sælgeren og køberen inden kundeforholdet etableres. 
+
+Oplysningerne kan være i form af en generel meddelelse om de retlige forpligtelser i henhold til loven.
+
+Det synes at være oplagt at denne information medtages i ejendomsmæglerens og ejendomsmæglervirksomhedens forretningsbetingelser, som en del af aftalen med kunden. 
+
+Det er næppe tilstrækkeligt, at informationerne blot fremgår af ejendomsmæglervirksomhedens hjemmeside
+
+Selvom det ikke fremgår direkte af hvidvaskloven, så må man formode at oplysningspligten ikke blot gælder fysiske kunder, men også befuldmægtige og reelle ejere i det omfang, der indhentes oplysninger om sådanne.
+
+Det kan i øvrigt nævnes, at Datatilsynet kræver anmeldelse af den **whistleblowerordninger**, der med den nye hvidvasklov er blevet et krav for visse virksomheder (især finansielle virksomheder og ejendomsmæglerkæder)
+ 
+Endeligt kan nævnes, at kravet om uddannelse af medarbejdere udvides til også at omfatte krav om uddannelse i relevante bestemmelser om databeskyttelse.
+
+## Screening af medarbejderne og whistleblowerordning
+
+For at reducere risikoen for at ansatte kan misbruge deres stilling til hvidvask, så er det fremover et krav, at nye ansatte screenes afhængig af deres funktion i virksomheden.
+
+4. hvidvaskdirektiv definere ikke hvad screening er.
+
+I lovbemærkninger fremgår, at screening kan bestå i, at virksomheder omfattet af hvidvaskloven undersøger, om en ansøger til en stilling er dømt for et *strafbart forhold*, der konkret øger risikoen for at vedkommende vil misbruge sin stilling og begår hvidvask.
+
+Kravet om at det strafbare forhold skal øge risikoen for misbrug betyder, at det ikke er ethvert strafbart forhold, som er relevant. F.eks. vil en dom for spirituskørsel næppe i sig selv øge risikoen for hvidvask.
+
+Den nye hvidvasklov har ifølge lovbemærkningerne også til formål at tydeliggøre, at definitionen af hvidvask også omfatter midler, der er opnået ved *skatteunddragelse*.
+
+Skatteunddragelse er imidlertid ikke nævnt som sådan i lovteksten, men det der formentlig tænkes på er, at der i definitionen på hvidvask, nu ikke alene er nævnt “økonomisk udbytte” fra en forbrydelse men også “midler”
+
+
+## Ejendomsmægleren og ejendomsmæglervirksomheden skal etablere en "whistleblowerordning"
+
+Det er således nu et krav, at ejendomsmægleren og ejendomsmæglervirksomheden skal have en ordning, hvor ansatte via en *“særlig, uafhængig og selvstændig kanal”* (*whistleblowerordningen*) kan indberette overtrædelser eller potentielle overtrædelser af hvidvaskloven. 
+
+*Kravet gælder kun, hvis virksomheden beskæftiger flere end 5 personer*.
+
+Overtrædelserne kan være begået af ansatte, medlemmer af bestyrelsen eller af selve virksomheden.
+
+Det er et krav, at indberetningerne kan ske anonymt uden mulighed for at opspore hvem som har foretaget indberetningen.
+
+Indberetningerne bør som udgangspunkt alene være tilgængelige for den afdeling eller medarbejder, som behandler indberetningerne.
+
+Dette indebærer blandt andet, at medarbejdere skal kunne indberette overtrædelser uden om for eksempel den daglige ledelse, og de skal kunne være anonyme. 
+
+Der åbnes endvidere mulighed for at outsource håndteringen af en overtrædelse eller en potentiel overtrædelse af hvidvaskloven begået af ejendomsmæglervirksomheden eller personen, herunder af ansatte eller medlemmer af bestyrelsen, omfatter enhver overtrædelse eller potentiel overtrædelse af ejendomsmæglervirksomhedens eller personens forpligtelser i henhold til hvidvaskloven, også selvom denne ikke kan henføres til en enkelt person, men eksempelvis skyldes en grundlæggende systemfejl i ejendomsmæglervirksomheden.
+ 
+Hvidvaskloven lægger desuden op til, at medarbejdere, der har anvendt whistleblowerordningen, skal være særligt beskyttet. 
+
+Virksomheden må således ikke udsætte medarbejderen for ”ufordelagtig behandling” eller ”ufordelagtige følger”. 
+
+Det kan for eksempel være afskedigelse, degradering, forflyttelse, forbigåelse eller lignende.
+
+Såfremt en medarbejder udsættes for ufordelagtig behandling eller ufordelagtige følger, fordi at medarbejderen har foretaget en indberetning efter ordningen, vil medarbejderen efter omstændighederne have krav på en godtgørelse. 
+
+Ved udmålingen af en sådan godtgørelse tages udgangspunkt i de principper, der gælder efter ligebehandlingsloven, og der tages hensyn til medarbejderens anciennitet og sagens øvrige omstændigheder.
+
+Det fremgår nærmere af hvidvaskloven, at den som foretager indberetning ikke må udsættes som nævnt for “ufordelagtig” behandling eller følger. 
+
+Dette gælder også indberetning til SØIK. 
+
+Det fremgår ikke af loven hvilken situation, der her tænkes på, da indberetningen overtrædelser af hvidvaskloven sker anonymt og ikke kommer andre til kendskab.
+
+Under lovbehandling har det været drøftet hvad der nærmere skal defineres ved “en ansat”. 
+
+Det afgørende er, om den pågældende person har en ansættelseskontrakt uanset hvilken kategori af medarbejdere pågældende tilhører i virksomheden og uanset om vedkommende er på fuld tid eller deltid.
+
+Fx vil en ansat rengøringsdame eller kok tælle med, mens de ikke tæller med, hvis de ikke er ansat af virksomheden, men af en særskilt rengøringsvirksomhed eller cateringsvirksomhed.
+
+Indehavere af personligt ejede selskaber, interessentskaber, bestyrelsesmedlemmer eller en medarbejdende ægtefælle uden ansættelseskontrakt tæller ikke med.
+
+Kravet om, at der skal være en særlig kanal til indberetning, skal forstås således, at kanalen skal være godkendt af Datatilsynet og være oprettet med det formål, at ansatte som minimum skal kunne indberette overtrædelser eller potentielle overtrædelser af den finansielle regulering til ordningen.
+
+Det, at kanalen tillige skal være uafhængig og selvstændig, betyder, at der skal etableres en selvstændig funktion, der er uafhængig af den daglige ledelse, og hvor indberetning kan ske uden om de normale procedurer, f.eks. direkte til den afdeling eller medarbejder, som behandler indberetningerne.
+
+Dette vil eksempelvis kunne være en særlig compliance-ansvarlig.
+
+Ejendomsmæglervirksomhedernes og ejendomsmæglerens whistleblowerordning skal omfatte indberetning af såvel overtrædelser som potentielle overtrædelser af hvidvaskloven, hvilket betyder, at der kan indberettes såvel alvorlige som mindre alvorlige forseelser, og der kan ligeledes indberettes overtrædelser, som ikke er af afgørende betydning for koncernen eller virksomheden som helhed. 
+
+Det, at indberetninger skal kunne foretages anonymt, indebærer, at den, der indberetter en overtrædelse, kan gøre dette fuldstændigt anonymt, f.eks. via en løsning på virksomhedens intranet, hvor der kan indsendes indberetninger uden angivelse af navn, uden mulighed for sporing af computerens IP-adresse og lignende. 
+
+Indberetningerne bør som udgangspunkt alene være tilgængelige for den afdeling eller medarbejder, som behandler indberetningerne. 
+
+Dette vil eksempelvis kunne være den compliance-ansvarlige. 
+
+Anonyme henvendelser til en whistleblowerordning kan svække mulighederne for at bevise, at der er sket forskelsbehandling som følge af indberetningen, da kravet om anonymitet medfører, at virksomheden eller personen i tilfælde af anonyme indberetninger ikke ved, hvem der har indgivet indberetningen.
+
+Det er imidlertid vigtigt at sikre, at ansatte, der anvender ordningen, kan være fuldstændig anonyme, idet det kan være svært for en ansat at beslutte at indberette en overtrædelse af hvidvaskloven til ejendomsmæglervirksomheden, hvis det ikke kan ske anonymt. 
+
+En ansat kan eksempelvis være bange for at miste sit arbejde, imens andre ansatte kan føle, at de har handlet illoyalt over for en kollega eller over for ejendomsmæglervirksomheden.
+
+En overtrædelse eller en potentiel overtrædelse af hvidvaskloven begået af ejendomsmæglervirksomheden eller personen, herunder af 
+
+ansatte eller medlemmer af bestyrelsen, omfatter enhver overtrædelse eller potentiel overtrædelse af ejendomsmæglervirksomhedens eller personens forpligtelser i henhold til hvidvaskloven, også selvom denne ikke kan henføres til en enkelt person, men eksempelvis skyldes en grundlæggende systemfejl i ejendomsmæglervirksomheden.
+
+Der vil tillige kunne blive indberettet overtrædelser af hvidvaskloven, der skyldes undladelser. 
+
+Hvis ejendomsmæglervirksomheden eller person har valgt at outsource en del af de forpligtelser, der påhviler den pågældende efter hvidvaskloven til en ekstern virksomhed, vil de ansatte i virksomheden eller personen også kunne indberette til virksomhedens whistleblowerordning om manglende efterlevelse af forpligtelserne, som sker hos den eksterne virksomhed. 
+
+Ansatte hos den eksterne virksomhed vil kunne indberette overtrædelser til den relevante tilsynsmyndighed.
+
+En whistleblowerordning kan outsources til en ekstern leverandør. 
+
+En virksomhed eller person kan imidlertid ikke fraskrive sig sine forpligtelser efter lovgivningen, og virksomheder eller personer, der benytter sig af outsourcing, er således fortsat ansvarlige for, at ordningerne lever op til lovgivningens krav. 
+
+En virksomhed, som varetager, administrerer eller på anden måde håndterer en ordning på vegne af en i hvidvaskloven forpligtet virksomhed, skal være opmærksom på anden særlovgivning, der kan være til hinder herfor. 
+
+En virksomhed, der varetager, administrerer eller på anden måde håndterer en ordning på vegne af en forpligtet virksomhed eller person, skal endvidere også være opmærksom på eventuelle lovbestemte oplysningsforpligtelser, som virksomhederne kan være underlagt efter anden lovgivning f.eks. persondatalovgivningen.
+
+Ansattes, herunder direktionens, indberetning til whistleblowerordningen vil ikke være i strid med tavshedspligten i § 132 i selskabsloven eller særlovgivningens tavshedsregler, herunder tavshedspligten i lov om finansiel virksomhed.
+
+Dette gælder tillige i tilfælde, hvor ordningen er outsourcet til en ekstern leverandør.
+
+Overtrædelse af bestemmelsen i hvidvasklovens § 35 om etablering af en  whistleblowerordning er strafbelagt, jf. lovens § 78, stk. 1. 
+
+Ansvarssubjekterne for overtrædelse af § 35, stk. 1, er de i bestemmelsen nævnte virksomheder fx ejendomsmæglerne og ejendomsmæglervirksomhederne og personer, og den strafbare handling består i ikke at have en ordning, hvor ansatte via en særlig, uafhængig og selvstændig kanal kan indberette overtrædelser eller potentielle overtrædelser af hvidvaskloven og regler udstedt i medfør heraf. 
+
+Et eksempel på overtrædelse af bestemmelse  er en ejendomsmæglervirksomhed, hvor de ansatte alene kan foretage indberetninger til en whistleblowerordning, hvis de oplyser deres kontaktoplysninger.
+
+Se Finanstilsynets lovsamling om hvidvask, hvor du finder de gældende love, bekendtgørelser og vejledninger:
+
+Link: https://www.finanstilsynet.dk/Tilsyn/Information-om-udvalgte-tilsynsomraader/Hvidvask/Regler-for-hvidvask
+
+Her finder du følgende dokumenter:
+
+* Vejledning om lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven)
+* Lovsamlingen om hvidvask, herunder Finanstilsynets vejledning om lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven) 9854 af 11/10/2018: Lov i pdf format:
+https://www.finanstilsynet.dk/~/media/Tilsyn/hvidvask/Vejledning-til-hvidvaskloven-oktober-2018.pdf
+* EU lovsamling med direktiver og forordninger 
+* Forordning nr. 2015/847 om oplysninger der skal medsendes ved pengeoverførsler 
+* Rådets forordning af 18. december 2008 om ændring af forordning (EF) nr. 1338/2001 om fastlæggelse af de foranstaltninger, der er nødvendige for at beskytte euroen mod falskmøntner
+* Kommissionens Forordning (EU) nr. 1031/2010 af 12. november 2010 om det tidsmæssige og administrative forløb af auktioner over kvoter for drivhusgasemissioner og andre aspekter i forbindelse med sådanne auktioner i medfør af Europa-Parlamentets og Rådets direktiv 2003/87/EF om en ordning for handel med kvoter for drivhusgasemissioner i Fællesskabet
+
